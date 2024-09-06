@@ -9,3 +9,5 @@ thing.addEventListener("load", () => {
 thing.open("get", "https://cookies2x2-default-rtdb.firebaseio.com/motd.json");
 
 thing.send()
+
+//deez

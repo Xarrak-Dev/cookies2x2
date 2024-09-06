@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TBOI Item Quiz</title>
+    <link rel="stylesheet" type="text/css" href="/resources/global.css">
+    <link rel="icon" type="image/x-icon" href="/resources/favicon.ico">
+</head>
+<body>
+    <h1>Guess the Item!</h1>
+    <h4>Guess the item based on the description given from the wiki. It is not case sensitive, so you can guess "The Sad Onion", "the Sad onion", "tHe sAd          onIon", etc. and still get it right. Note: Due to how this game is coded, all (added in repentance) or things like that have been removed, so the item          description may have multiple
+    effects, such as items having "tear delay down" and also "tears up".</h4>
+    <p>Type "more" in the box to get the first letter of the item, at the cost of half a point.</p>
+    <p id="description"></p>
+    <input type="text" id="guess" placeholder="Enter your guess">
+    <button onclick="checkGuess()">Guess</button>
+    <p id="result"></p>
+    <script src="script.js"></script>
+</body>
+</html>

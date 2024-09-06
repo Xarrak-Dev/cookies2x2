@@ -1,0 +1,720 @@
+A Pony	5.100.130	A Pony2 rooms	Flight + dash attack	Passively grants flight and increases speed to 1.5. Upon use, Isaac charges in the direction the pony is facing, giving invulnerability during the charge and dealing damage to enemies hit.	2
+Anarchist Cookbook	5.100.65	Anarchist Cookbook3 rooms	Summon bombs	Spawns six Troll Bombs around the room.	1
+Best Friend	5.100.136	Best Friend3 rooms	Friends 'till the end	Spawns a decoy Isaac that explodes after 5 seconds. Enemies will always target the decoy and ignore Isaac.	1
+Blank Card	5.100.286	Blank CardVariable	Card mimic	(except in Repentance) Copies the effect of the card or rune currently held by Isaac.(in Repentance) Copies the effect of the card currently held by Isaac. The charge time is based on the power of the card.	2
+Blood Rights	5.100.186	Blood RightsUnlimited	Mass enemy damage at a cost	Upon use, takes a full heart of health and deals 40 damage to all enemies in the room. (in Repentance) Repeated uses in the same room only take half a heart.	0
+Bob's Rotten Head	5.100.42	Bob's Rotten Head2 rooms	Reusable ranged bomb	Upon use, Isaac holds a poison Bomb which can be thrown in the cardinal directions and explodes on impact.	1
+Book of Revelations	5.100.78	Book of Revelations6 rooms	Reusable soul protection	Increases the chance of a Devil Room / Angel Room appearing while held. On use, gives one Soul Heart, and replaces the boss of the current floor with a Harbinger if possible.	3
+Book of Secrets	5.100.287	Book of Secrets6 rooms	Tome of knowledge	Gives the effect of Treasure Map, The Compass, or Blue Map for the duration of the current floor. (in Repentance) If all effects are active, X-Ray Vision is provided for the floor instead. Highlights any Tinted Rocks and rocks with Crawl Space in the room.	1
+Book of Shadows	5.100.58	Book of Shadows3 rooms	Temporary invincibility	Creates a protective shield, nullifying all types of damage in the current room for 10 seconds.	3
+Box of Spiders	5.100.288	Box of Spiders2 rooms	It's a box of spiders	(except in Repentance) Spawns 1-4 Blue Spiders that deal 2.5x Isaac's damage to enemies.(in Repentance) Spawns 4-8 Blue Spiders that deal 2x Isaac's damage to enemies.	1
+Breath of Life	5.100.326	Breath of Life3 seconds	Invincibility at a cost	Grants a brief moment of invincibility when the charge bar hits zero. Isaac begins taking damage if the item is held any longer. (in Repentance) Isaac creates beams of light when touching enemies while invulnerable, and creates a powerful 4-way beam if blocking damage exactly as the invincibility starts.	1
+Butter Bean	5.100.294	Butter Bean3 seconds	Reusable knock-back	Upon use, Isaac farts and knocks back nearby enemies (except in Rebirth) and projectiles. (in Repentance) Enemies pushed into walls or obstacles take 12 damage.	1
+Converter	5.100.296	Converter3 rooms	Convert your soul	(except in Repentance) Converts two Soul Hearts or Black Hearts into one filled Red Heart Container.(in Repentance) Converts one Soul Heart or Black Heart into one filled Red Heart Container.	2
+Crack the Sky	5.100.160	Crack the Sky4 rooms	Holy white death	Summons 5 beams of light in random locations on the ground, dealing large amounts of damage to any enemies that touch them.	2
+Crystal Ball	5.100.158	Crystal Ball6 rooms	I see my future	Upon use, reveals the map (except the Super Secret Room) and drops a Soul Heart or random card/rune.	3
+D10	5.100.285	D102 rooms	Reroll enemies	(except in Repentance) Re-rolls all monsters in the room.(in Repentance) Replaces all monsters in the room with weaker monsters.	1
+D100	5.100.283	D1006 rooms	REEROLLLLL!	(except in Repentance) Combines the effects of D4, The D6, and D20.(in Repentance) Combines the effects of D1, D4, The D6, D7, D8, D10, D12, and D20.	3
+D20	5.100.166	D206 rooms	Reroll the basics	Rerolls all pickups in the current room.	2
+D4	5.100.284	D46 rooms	Reroll into something else	Rerolls all of Isaac's passive items.	2
+Dad's Key	5.100.175	Dad's Key2 rooms	Opens all doors...	Upon activation, opens all doors in the current room in almost all circumstances, including doors which require a Key to open, entrances to Secret Rooms, and the door to Mega Satan.	2
+Dead Sea Scrolls	5.100.124	Dead Sea Scrolls2 rooms	It's a mystery	Triggers the effect of a random activated item from a list of possible options (not every activated item is included).	1
+Deck of Cards	5.100.85	Deck of Cards6 rooms	Reusable card generator	Gives Isaac a random card.	2
+Doctor's Remote	5.100.47	Doctor's Remote2 rooms	Reusable air strike	Creates a crosshair on the ground that can be aimed with tear controls. A missile strikes the spot after 2 seconds, creating a heavy damage explosion.	1
+Flush!	5.100.291	Flush!4 rooms	...	Turns all non-boss monsters in the room into Poop. Instantly kills poop-themed bosses.	1
+Forget Me Now	5.100.127	Forget Me NowOne time use	I don't remember...	On use, re-generates the current floor with a new layout. Isaac loses Forget Me Now, but keeps other items and consumables picked up on the original floor.	3
+Guppy's Head	5.100.145	Guppy's Head1 room	Reusable fly hive	Spawns 2-4 friendly Blue Flies that damage enemies.	2
+Guppy's Paw	5.100.133	Guppy's PawUnlimited	Soul converter	Upon use, converts one Red Heart Container into three Soul Hearts.	3
+Head of Krampus	5.100.293	Head of Krampus3 rooms	Krampus rage	(except in Afterbirth) Fires a powerful Brimstone beam in four cardinal directions, much like Krampus shoots.(in Afterbirth) Fires a powerful Brimstone beam in four cardinal directions, much like Krampus shoots with a 50% chance to rotate all beams around Isaac 90 degrees.2
+How to Jump	5.100.282	How to JumpUnlimited	It's time you learned how	Upon use, Isaac jumps in the direction he is currently moving, allowing travel over obstacles and enemies.	1
+Isaac's Tears	5.100.323	Isaac's Tears6 rooms	Collected tears	Fires 8 tears around Isaac, which retain the damage, range, shot speed, and special tear effects of his tears. Each tear shot by Isaac increases item charge by one. (in Repentance) Tears from this item have a +5 flat damage bonus.	1
+IV Bag	5.100.135	IV BagUnlimited	Portable blood bank	Upon use, Isaac loses half a heart of health (or a full heart in Chapter 4 onward) for a random amount of coins, similar to a Blood Donation Machine.	1
+Kamikaze!	5.100.40	Kamikaze!Unlimited	Become the bomb!	Creates an explosion around Isaac, damaging him and nearby enemies as well as destroying obstacles.	0
+Lemon Mishap	5.100.56	Lemon Mishap2 rooms	Oops...	Creates a tiny pool of yellow creep, damaging enemies that cross it.	0
+Magic Fingers	5.100.295	Magic FingersUnlimited	Pay to win	Uses 1 Penny to deal damage to all enemies in the room.	1
+Mom's Bottle of Pills	5.100.102	Mom's Bottle of Pills6 rooms	Reusable pill generator	On use, gives Isaac a random pill.	1
+Mom's Bra	5.100.39	Mom's Bra3 rooms	Mass paralysis	Petrifies all enemies in the current room for 4 seconds.	1
+Mom's Pad	5.100.41	Mom's Pad2 rooms	Mass fear	Inflicts fear to all enemies in the room for 4 seconds. (in Repentance) Spawns a blue fly.	0
+Monster Manual	5.100.123	Monster Manual6 rooms	Temporary buddy generator	(except in Repentance) Spawns a familiar from a specific selection for the current room.(in Repentance) Spawns a familiar from a specific selection for the current floor.	1
+Monstro's Tooth	5.100.86	Monstro's Tooth3 rooms	Summon Monstro	A friendly Monstro jumps on a random enemy, dealing 120 area damage. Targets Isaac if used in a room without enemies.	1
+Mr. Boom	5.100.37	Mr2 rooms	Reusable bomb buddy	(except in Repentance) Places a Mr. Mega Bomb that deals 110 damage.(in Repentance) Places a Mr. Mega Bomb that deals 185 damage.	1
+My Little Unicorn	5.100.77	My Little Unicorn4 rooms	Temporary badass	Gives invulnerability and +0.28 speed for six seconds, removing the ability to shoot tears and replacing it with the ability to deal contact damage to enemies.	1
+Notched Axe	5.100.147	Notched AxeUnlimited	Rocks don't stand a chance	(except in Repentance) Isaac destroys obstacles and opens Secret Rooms by walking into them, but cannot shoot or pick up items until it's cancelled.(in Repentance) Toggles between tears and the pickaxe, which can be swung to attack and break obstacles. Using it depletes the charge, and it can't be used until next floor once the charge runs out.	1
+Pandora's Box	5.100.297	Pandora's BoxOne time use	? ?	Upon use, spawns specific pickups or items depending on the floor it is used on. Disappears after use.	2
+Portable Slot	5.100.177	Portable SlotUnlimited	Gamble 24/7	Upon use, consumes 1 Penny and has a chance to drop a random pickup, like a Slot Machine.	0
+Prayer Card	5.100.146	Prayer Card6 rooms	Reusable eternity	Gives an Eternal Heart per use.	3
+Razor Blade	5.100.126	Razor BladeUnlimited	Feel my pain	Takes one Heart of health and grants +1.2 damage for the current room. (in Repentance) Repeated uses in the same room only take half a heart.	0
+Red Candle	5.100.289	Red Candle4 seconds	Flame on	Throws out a flame that damages everything in its path, diminishing in size as it hits enemies or blocks shots.	2
+Remote Detonator	5.100.137	Remote DetonatorUnlimited	Remote bomb detonation	Bombs placed by Isaac only explode when Remote Detonator is used. Gives 5 bombs.	1
+Satanic Bible	5.100.292	Satanic Bible6 rooms	Reusable evil... but at what cost?	Gives one Black Heart. (in Repentance) Replaces the boss room item on the current floor with a Devil Deal.	4
+Scissors	5.100.325	Scissors4 rooms	Lose your head	Turns Isaac's head into a stationary familiar for the current room which fires tears automatically. (in Repentance) Isaac's body also shoots a controllable fountain of blood shots for the room.	1
+Shoop da Whoop!	5.100.49	Shoop da Whoop!2 rooms	BLLLARRRRGGG!	Fires a laser from Isaac's mouth.	2
+Spider Butt	5.100.171	Spider Butt2 rooms	Mass enemy slowdown + damage	Deals 10 damage to all enemies in the room and slows them for 4 seconds. (in Repentance) Enemies killed by Spider Butt spawn Blue Spiders.	1
+Tammy's Head	5.100.38	Tammy's Head1 room	Reusable tear burst	Shoots 10 tears in a circle around Isaac, which retain the damage, range, shot speed, and special effects (such as poison) of Isaac's tears. Tears from this item have a +25 flat damage bonus.	2
+Telepathy For Dummies	5.100.192	Telepathy For Dummies2 rooms	Temporary psychic shot	Gives homing tears for the current room. (in Repentance) Also gives +3 range.	1
+Teleport!	5.100.44	Teleport!2 rooms	Teleport!	Teleports Isaac to a random room on the current floor.	0
+The Bean	5.100.111	The Bean1 room	Toot on command	Isaac farts, poisoning any enemy in close range.	0
+The Bible	5.100.33	The Bible4 rooms	Temporary flight	On use, Isaac gains flight for the current room. Instantly kills Mom, Mom's Heart, and It Lives when activated, but kills Isaac when used on Satan.	1
+The Book of Belial	5.100.34	The Book of Belial3 rooms	Temporary DMG up	(in Rebirth) +2 damage for the current room. Passively guarantees a Devil Room or Angel Room will appear while held.(except in Rebirth) +2 damage for the current room. Passively increases the chance of finding a Devil Room or Angel Room while held.	2
+The Book of Sin	5.100.97	The Book of Sin4 rooms	Reusable item generator	Generates a random pickup, pill, card, or rune.	2
+The Boomerang	5.100.338	The Boomerang2 seconds	It will never leave you	Throws a boomerang which retrieves pickups, as well as damages and petrifies enemies hit for 2 seconds.	1
+The Candle	5.100.164	The Candle4 seconds	Reusable flames	Throws out a flame that damages everything in its path, diminishing in size as it travels.	2
+The D6	5.100.105	The D66 rooms	Reroll your destiny	Re-rolls all items in the current room into other items, depending on the current room's Item Pool.	4
+The Gamekid	5.100.93	The Gamekid4 rooms	Temporary Man-Pac	Turns Isaac into a Pac-Man-like creature for 6.5 seconds, granting invulnerability, inflicting fear on all enemies, and has a chance of replenishing a Half Red Heart every time an enemy is killed.	1
+The Hourglass	5.100.66	The Hourglass2 rooms	Temporary enemy slowdown	All enemies in the room are slowed for 8 seconds.	1
+The Jar	5.100.290	The JarUnlimited	Save your life	When at full health, up to 4 extra Red Hearts can be stored in The Jar. Activating drops the stored hearts on the ground.	0
+The Nail	5.100.83	The Nail6 rooms	Temporary demon form	(except in Repentance) Gives one Soul Heart. For the current room; +0.7 damage, -0.18 speed, Isaac breaks rocks and deals contact damage.(in Repentance) Gives half a Black Heart. For the current room; +2 damage, -0.18 speed, Isaac breaks rocks and deals contact damage.	2
+The Necronomicon	5.100.35	The Necronomicon4 rooms	Mass room damage	Deals 40 damage to every enemy in the room.	1
+The Pinking Shears	5.100.107	The Pinking Shears4 rooms	Cut and run	Separates Isaac's head from his body for the current room, granting flight and turning the body into a familiar that chases enemies.	2
+The Poop	5.100.36	The Poop1 room	Plop!	Spawns a pile of Poop where Isaac is standing and knocks back nearby enemies. May yield pickups like regular poop.	0
+Undefined	5.100.324	Undefined6 rooms	Undefined	Teleports Isaac to the Secret Room, Super Secret Room, Treasure Room, or I AM ERROR.	2
+Unicorn Stump	5.100.298	Unicorn Stump1 room	You feel stumped	Gives invulnerability and increased speed for six seconds, but removes the ability to shoot tears.	1
+We Need To Go Deeper!	5.100.84	We Need To Go Deeper!6 rooms	Reusable level skip	Creates a trapdoor to go to the next floor. (in Repentance) Once per floor, using it on tiles with special graphics will instead create a Crawl Space.	2
+White Pony	5.100.181	White Pony2 rooms	Flight + holy death	Passively grants flight and increases speed to 1.5. Upon use, Isaac charges in the direction the pony is facing, giving invulnerability during the charge while also creating damaging beams of light.	2
+Yum Heart	5.100.45	Yum Heart4 rooms	Reusable regeneration	Restores one full Red Heart.	1
+(except in Rebirth) Box of Friends	5.100.357	Box of Friends3 rooms	Double your friends	Duplicates all of Isaac's familiars for the current room. If Isaac has no familiars, spawns a Demon Baby for the room instead.	1
+(except in Rebirth) D12	5.100.386	D123 rooms	Rerolls rocks	(except in Repentance) Re-rolls all Rocks and Metal Blocks in the current room into other random obstacles.(in Repentance) Re-rolls most types of Obstacles in the current room into other random obstacles.	1
+(except in Rebirth) D7	5.100.437	D73 rooms	Roll again	Restarts the current room and brings back all enemies, allowing more rewards to be acquired by completing the room.	1
+(except in Rebirth) D8	5.100.406	D84 rooms	Reroll stats	Re-rolls Isaac's damage, tears, range, and speed.	2
+(except in Rebirth) Diplopia	5.100.347	DiplopiaOne time use	Double item vision	Duplicates all pickups and item pedestals in the room.	3
+(except in Rebirth) Friendly Ball	5.100.382	Friendly Ball2 rooms	Gotta fetch 'em all!	Throwing the ball at a monster instantly kills and captures it. The captured enemy can later be released and will be friendly, fighting for Isaac and persisting between rooms.	1
+(except in Rebirth) Glass Cannon	5.100.352	Glass Cannon4 seconds	Be gentle...	(except in Repentance) Fires a high-damage piercing spectral tear, but lowers Isaac's health to half a heart.(in Repentance) Fires a high-damage piercing spectral tear. If Isaac takes damage while holding this, he takes extra damage and it becomes Broken Glass Cannon.	1
+(except in Rebirth) Glowing Hourglass	5.100.422	Glowing HourglassUnlimited	Turn back time	Rewinds time, putting Isaac back in the previous room and undoing anything that happened in the current room. (in Repentance) Can only be used three times per floor, after which it functions like The Hourglass until the next floor.	3
+(except in Rebirth) Jar of Flies	5.100.434	Jar of FliesUnlimited	Bug catcher	Killing an enemy adds a fly to the jar, up to a maximum of 20. On use, releases Blue Flies equal to the number of flies in the jar.	2
+(except in Rebirth) Kidney Bean	5.100.421	Kidney Bean1 room	Love toots!	Isaac farts, charming all nearby enemies.	1
+(except in Rebirth) Mega Bean	5.100.351	Mega Bean3 rooms	Giga fart!	Petrifies all enemies in the current room for about 1.5 seconds, poisons any enemies near Isaac, and sends a rock wave across the room in the direction Isaac is facing.	1
+(except in Rebirth) Mega Blast	5.100.441	Mega Blast12 rooms	Laser breath	Upon use, Isaac fires a laser similar to the one used by Mega Satan. This laser deals massive damage, lasts for approximately 15 seconds, and persists between rooms. Isaac is pushed backwards by the force of the laser while it is active.	4
+(except in Rebirth) Mine Crafter	5.100.427	Mine Crafter1 room	Booom!	Places a Movable TNT barrel that can be pushed and used to destroy rocks or damage enemies. If used again in the same room while the previous TNT barrel is still intact, remotely detonates the TNT.	1
+(except in Rebirth) Mom's Box	5.100.439	Mom's Box4 rooms	What's inside?	Increases luck by 1 and doubles the effects of trinkets while held. When used, drops a random trinket on the ground.	2
+(except in Rebirth) Placebo	5.100.348	PlaceboVariable	Pill mimic	Has the same effect as the Pill currently held by Isaac. (in Repentance) The charge time is based on the power of the pill.	2
+(except in Rebirth) Tear Detonator	5.100.383	Tear Detonator15 seconds	Remote tear detonation!	Splits all of Isaac's tears that are currently in the air into 6 tears that fire in all directions, which retain their damage and shot speed.	1
+(except in Rebirth) Teleport 2.0	5.100.419	Teleport 24 rooms	I-Teleport!	Teleports Isaac to a room that has not been explored yet. Normal rooms are prioritized over special rooms, and common special rooms take priority over rarer ones.	3
+(except in Rebirth) Ventricle Razor	5.100.396	Ventricle RazorUnlimited	Short cutter	Creates up to two portals that remain even if Isaac leaves the room. Upon entering a portal, Isaac is teleported to the other portal.	1
+(except in Rebirth) Wooden Nickel	5.100.349	Wooden Nickel1 room	Flip a coin	When used, has a roughly 50% chance to drop a penny, nickel or dime.	1
+(in Afterbirth † and Repentance) Black Hole	5.100.512	Black Hole4 rooms	Nothing can escape	Throws a black hole on the ground which sucks in and damages enemies.	1
+(in Afterbirth † and Repentance) Book of the Dead	5.100.545	Book of the Dead6 rooms	Rise from the grave	(except in Repentance) Creates a friendly Bony, Black Bony, or an orbital bone for each enemy killed in the current room.(in Repentance)Creates a friendly Bony, Black Bony, Bone Fly, Revenant, or an orbital bone for each enemy killed in the current room.	3
+(in Afterbirth † and Repentance) Broken Shovel	5.100.550	Broken Shovel4 rooms	It feels cursed	While held, causes Mom to continuously attempt to stomp on Isaac. Activating makes her stop for the current room or wave. One of two parts necessary to create Mom's Shovel.	4
+(in Afterbirth † and Repentance) Brown Nugget	5.100.504	Brown Nugget8 seconds	Friendly fly	Spawns a stationary fly turret that lasts for the current room and fires tears at nearby enemies.	0
+(in Afterbirth † and Repentance) Clicker	5.100.482	Clicker6 rooms	Change	Transforms Isaac into a random character and removes the last item collected.	0
+(in Afterbirth † and Repentance) Compost	5.100.480	Compost2 rooms	Gain more friends!	Doubles Isaac's Blue Flies and Blue Spiders, or spawns one if Isaac has none. Converts pickups in the current room into Blue Flies or Blue Spiders.	1
+(in Afterbirth † and Repentance) Coupon	5.100.521	Coupon6 rooms	Allow 6 weeks for delivery	While held, guarantees one item in every Shop will be on sale. On use, makes a random item in the current room free.	2
+(in Afterbirth † and Repentance) Crooked Penny	5.100.485	Crooked Penny4 rooms	50/50	Spawns a penny and has a 50% chance to double all items and pickups in the room. If the effect fails, the items and pickups disappear.	2
+(in Afterbirth † and Repentance) D infinity	5.100.489	D infinityVariable	Reroll forever	(except in Repentance) Grants a random die item that changes each use.(in Repentance) Acts as any die item, and can by cycled by pressing the drop key.	4
+(in Afterbirth † and Repentance) D1	5.100.476	D14 rooms	What will it be?	Duplicates a random pickup in the room. (in Repentance) The new pickup may be different than the original (i.e. a different card, etc).	2
+(in Afterbirth † and Repentance) Dataminer	5.100.481	Dataminer4 rooms	109	Displaces enemy sprites for the current room, randomly increases one stat and decreases another.	0
+(in Afterbirth † and Repentance) Delirious	5.100.510	Delirious12 rooms	Unleash the power!	Spawns Delirium as a random friendly boss that fights for Isaac.	1
+(in Afterbirth † and Repentance) Dull Razor	5.100.486	Dull Razor2 rooms	I feel numb...	Hurts Isaac without depleting health, activating any items that trigger upon taking damage.	1
+(in Afterbirth † and Repentance) Eden's Soul	5.100.490	Eden's Soul12 rooms	...	Spawns two item pedestals then is consumed. Begins with no charges.	3
+(in Afterbirth † and Repentance) Mama Mega!	5.100.483	Mama Mega!One time use	BOOOOOOOOOM!	Damages all enemies and destroys all obstacles. The effect occurs every time a new room is entered for the rest of the floor. Opens the doors to the floor's Secret Rooms and Super Secret Rooms.	3
+(in Afterbirth † and Repentance) Metronome	5.100.488	Metronome2 rooms	Waggles a finger	Grants a random item effect for the current room.	1
+(in Afterbirth † and Repentance) Mom's Shovel	5.100.552	Mom's Shovel4 rooms	Lost but not forgotten	Creates a trapdoor that leads to the next floor upon activation. Unlocks The Forgotten when used on a mound of dirt that appears in Dark Room.	4
+(in Afterbirth † and Repentance) Moving Box	5.100.523	Moving Box4 rooms	Pack and unpack	If the box is empty, picks up items and pickups in a room and stores them. If the box is not empty, places all stored items and pickups in the current room. (in Repentance) Can carry up to 10 items or pickups at once.	1
+(in Afterbirth † and Repentance) Mr. ME!	5.100.527	Mr4 rooms	Caaan do!	Summons a controllable ghost that can perform various tasks depending on what it targets.	3
+(in Afterbirth † and Repentance) Mystery Gift	5.100.515	Mystery GiftOne time use	Wrapped up nice for you!	Upon use, spawns a random item from the current room's item pool, with a chance to spawn A Lump of Coal or The Poop instead.	3
+(in Afterbirth † and Repentance) Pause	5.100.478	Pause2 rooms	Stop!	Freezes all enemies until a fire button is pressed.	1
+(in Afterbirth † and Repentance) Plan C	5.100.475	Plan COne time use	My last resort	Kills all enemies in the room, then kills Isaac three seconds later.	0
+(in Afterbirth † and Repentance) Potato Peeler	5.100.487	Potato PeelerUnlimited	A pound of flesh	Removes a Heart Container, increases damage and range, and grants a Cube of Meat.	2
+(in Afterbirth † and Repentance) Sacrificial Altar	5.100.536	Sacrificial AltarOne time use	He demands a sacrifice	Sacrifices up to 2 familiars and spawns an item for each familiar sacrificed. Converts all friendly spiders and flies into coins.	2
+(in Afterbirth † and Repentance) Sharp Straw	5.100.507	Sharp Straw10 seconds	More blood!	(except in Repentance) Damages all enemies in the room. Has a chance to drop a Half Red Heart or Half Soul Heart if an enemy is hit.(in Repentance) Damages all enemies in the room. Has a chance to drop a Half Red Heart if an enemy is hit.	2
+(in Afterbirth † and Repentance) Smelter	5.100.479	Smelter6 rooms	Trinket melter!	Consumes Isaac's currently held trinket and applies its effect permanently.	2
+(in Afterbirth † and Repentance) Sprinkler	5.100.516	Sprinkler4 rooms	Sprinkles.	Upon use, creates a stationary sprinkler that rotates and fires tears in 8 directions. The tears copy Isaac's stats and most tear effects.	2
+(in Afterbirth † and Repentance) Telekinesis	5.100.522	Telekinesis7 seconds	Power of the mind	Upon use, for the next three seconds, any enemy shots that come near Isaac are held in place and then later reflected.	1
+(in Afterbirth † and Repentance) Void	5.100.477	Void6 rooms	Consume	Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant random stat upgrades.	4
+(in Afterbirth † and Repentance) Wait What?	5.100.484	Wait What?10 seconds	I can't believe it's not butter bean!	Isaac farts, sending out rock waves.	1
+(in Repentance) Abyss	5.100.706	Abyss4 rooms	Come forth from the depths	Destroys all items in the room and gives Isaac a unique locust familiar for each item destroyed. Some items generate locusts with special effects.	4
+(in Repentance) Alabaster Box	5.100.585	Alabaster Box12 rooms	A sacred offering	Spawns three Soul Hearts and two Angel Room items and is consumed. Starts with no charges, and can only be charged by picking up 6 Soul Hearts.	2
+(in Repentance) Anima Sola	5.100.722	Anima Sola15 seconds	Repent	Chains down the nearest enemy for 5 seconds, preventing them from acting.	3
+(in Repentance) Bag of Crafting	5.100.710	Bag of CraftingUnlimited	Make your destiny	Collects and holds up to 8 pickups, which can then be used to craft an item. The power level of the item is based on the quality of pickups used.	3
+(in Repentance) Berserk!	5.100.704	Berserk!With damage dealt	Rip and tear	Causes Isaac to go berserk for 5 seconds, greatly increasing his speed, tears, and damage, but restricting him to using a melee weapon instead of his tears. This item charges by dealing damage to enemies instead of clearing rooms.	2
+(in Repentance) Book of Virtues	5.100.584	Book of Virtues4 rooms	Spiritual companionship	On use, spawns a destroyable orbiting wisp familiar that fires tears and deals contact damage. Also acts as a passive item that causes other active items to spawn themed wisps.	3
+(in Repentance) Broken Glass Cannon	5.100.474	Broken Glass Cannon4 rooms	You broke it!	Begins with no charges and turns into Glass Cannon when used. Only acquired by taking damage while holding Glass Cannon.	0
+(in Repentance) Clear Rune	5.100.263	Clear RuneVariable	Rune mimic	Has the same effect as the rune or soul stone currently held by Isaac. The charge time is based on the power of the rune.	2
+(in Repentance) Damocles	5.100.577	DamoclesOne time use	A king's fortune... but at what cost?	Spawns a sword above Isaac's head, which doubles all item pedestals. After Isaac takes damage, the sword can randomly fall at any point, instantly killing him.	2
+(in Repentance) Dark Arts	5.100.705	Dark Arts6 seconds	One with the shadows	Briefly grants +1 speed and makes Isaac invulnerable and intangible. When the effect ends, destroys all projectiles and damages all enemies Isaac ran through.	2
+(in Repentance) Death Certificate	5.100.628	Death CertificateOne time use	Where am I?	Takes Isaac to an abandoned and expanded version of Home, which has one copy of every item in the game. After taking an item, Isaac returns to the room he used Death Certificate in.	4
+(in Repentance) Decap Attack	5.100.729	Decap Attack4 seconds	Chuck away!	Throws Isaac's head, which is still able to fire tears at the spot it lands. Reactivating the item or stepping on the head reattaches it.	2
+(in Repentance) Eraser	5.100.638	Eraser1 floor	Erase thy enemy	Throws an eraser that instantly kills the first monster it hits, and prevents that monster from spawning for the rest of the run. Can only be used once per floor.	2
+(in Repentance) Esau Jr.	5.100.703	Esau Jr.1 room	Lost brother	Swaps between the current character and Esau Jr., who has +2 flat damage and flight. Characters have independent items and health. Dying as either character ends the run.	2
+(in Repentance) Eternal D6	5.100.609	Eternal D62 rooms	???	Rerolls all items in the room. Each item has a 25% chance to disappear instead.	3
+(in Repentance) Everything Jar	5.100.720	Everything Jar12 rooms	Anything is possible	Spawns certain pickups based on how many charges it has. If fully charged, instead has one of many unique effects.	3
+(in Repentance) Flip	5.100.711	Flip6 rooms	Twist of fate	Item pedestals have a second uninteractable "ghostly" item behind them. Activating will flip the real and ghostly items around. If playing as Tainted Lazarus, also flips between them and Dead Tainted Lazarus.	4
+(in Repentance) Fortune Cookie	5.100.557	Fortune Cookie2 rooms	Reusable fortunes	Gives Isaac a fortune, Soul Heart, Card, Rune, or trinket, similar to a Fortune Telling Machine. Fortunes are much more likely to be given than anything else.	2
+(in Repentance) Free Lemonade	5.100.578	Free Lemonade4 rooms	Party time!	Creates a large pool of yellow creep beneath Isaac.	1
+(in Repentance) Friend Finder	5.100.687	Friend Finder4 rooms	Best friends forever!	Spawns a random friendly monster that mimics Isaac's movements and attacks.	3
+(in Repentance) Gello	5.100.728	Gello2 rooms	Demonic gestation	Spawns a demon familiar that's attached to Isaac and moves and fires in the direction Isaac shoots, using Isaac's damage, tears, range, shot speed, and special tear effects.	3
+(in Repentance) Genesis	5.100.622	GenesisOne time use	In the beginning	Removes all of Isaac's items and pickups and takes him to a unique Bedroom with some pickups and Chests and a trapdoor to the next floor. For every item Isaac lost, he gets to take an item from a set of three.	3
+(in Repentance) Golden Razor	5.100.555	Golden RazorUnlimited	Pain from gain	Spends five Pennies to increase Isaac's damage by 1.2 for the current room.	1
+(in Repentance) Hold	5.100.715	HoldUnlimited	Saved for later	Exclusive to Tainted ???. Allows him to save one poop bomb for later, allowing him to gather more over time.	0
+(in Repentance) Jar of Wisps	5.100.685	Jar of Wisps12 rooms	Your faith grows	Spawns random wisps that shoot various tears, block shots, and deal contact damage. The number of wisps spawned increases every time the jar is used.	2
+(in Repentance) Keeper's Box	5.100.719	Keeper's Box4 rooms	Portable shop	Spawns a random shop item or pickup which can be bought for its normal price.	2
+(in Repentance) Larynx	5.100.611	Larynx12 rooms	Hear my pain	Isaac shouts, damaging and pushing away nearby enemies. The shout gets stronger the more charges the item has. Can also be charged by taking damage.	2
+(in Repentance) Lemegeton	5.100.712	Lemegeton6 rooms	Item summoner	Spawns a wisp representing a random passive item, which orbits Isaac but can be destroyed. While the wisp is alive, Isaac gains that item's effects. Generation uses the current room's item pool 25% of the time, otherwise a random pool.	3
+(in Repentance) Magic Skin	5.100.642	Magic Skin6 rooms	All your desires fulfilled	Consumes one heart container or two Soul Hearts to spawn an item and give Isaac a broken heart container that can never be filled. If Magic Skin isn't being held after being used, it is very likely to replace any future items.	2
+(in Repentance) Meat Cleaver	5.100.631	Meat Cleaver2 rooms	Slice but no dice	Splits all enemies in the room into two smaller versions of themselves with much less health.	1
+(in Repentance) Mega Mush	5.100.625	Mega Mush12 rooms	I'm a big boy now!	Gigantifies Isaac for 30 seconds, increasing damage and range while lowering tears, granting invulnerability, and allowing Isaac to crush enemies and obstacles he walks on. The effect persists between rooms.	4
+(in Repentance) Mom's Bracelet	5.100.604	Mom's Bracelet1 second	Mother's strength	Lets Isaac pick up and throw rocks, TNT, Poops, friendly Dips, Bombs, and other obstacles.	1
+(in Repentance) Plum Flute	5.100.650	Plum Flute4 rooms	Play time!	Summons the boss Baby Plum to fight for Isaac in the current room.	1
+(in Repentance) R Key	5.100.636	R KeyOne time use	Time to start over	Brings Isaac back to the first floor of a new run, retaining all of his items.	4
+(in Repentance) Recall	5.100.714	Recall3 seconds	Come back	Retrieves the Forgotten's body from any distance. Only available as the Birthright effect for Tainted Forgotten.	0
+(in Repentance) Red Key	5.100.580	Red Key4 rooms	Explore the other side	Creates a Red Room adjacent to a viable wall, indicated by the outline of a door. These rooms have a 10% chance to be a special room.	3
+(in Repentance) Sharp Key	5.100.623	Sharp KeyUnlimited	Open your enemies	Adds 5 Keys on pickup. Allows Isaac to throw his keys to deal damage to enemies, destroy obstacles, and open doors.	1
+(in Repentance) Spin to Win	5.100.655	Spin to Win3 seconds	Let it rip!	When used, gives Isaac +0.5 speed and greatly increases the rotation speed of Isaac's orbitals for 3 seconds. Gives Isaac a spinning top orbital that blocks enemy shots and deals contact damage to enemies while held.	1
+(in Repentance) Spindown Dice	5.100.723	Spindown Dice6 rooms	-1	Transforms all items in the room by decreasing their internal ID number.	4
+(in Repentance) Stitches	5.100.635	Stitches3 seconds	Bait and switch	Passively spawns a familiar that moves in the direction Isaac shoots. On use, Isaac swaps places with the familiar.	1
+(in Repentance) Sulfur	5.100.556	Sulfur3 rooms	Temporary demon form	Grants Brimstone for the current room.	3
+(in Repentance) Sumptorium	5.100.713	Sumptorium10 seconds	Blood to blood	Removes half a heart and creates a Clot familiar that mimics Isaac's movements and tear effects. As Tainted Eve, passively converts health into Clots while firing. Activating returns all Clots to health.	3
+(in Repentance) Suplex!	5.100.709	Suplex!7 seconds	Angel breaker	Isaac dashes forward and picks up the first enemy hit. After a moment, he slams them into the ground to deal damage and create a circular rock wave.	2
+(in Repentance) The Scooper	5.100.605	The Scooper3 rooms	Plop!	Summons The Peeper for the current room, which leaves a trail of red creep.	1
+(in Repentance) Urn of Souls	5.100.640	Urn of SoulsUnlimited	Unleash their sorrow	Spews a stream of damaging flame. Gains Soul Charges each time an enemy dies, which are used to fuel the urn.	3
+(in Repentance) Vade Retro	5.100.653	Vade RetroUnlimited	Begone!	While held, enemies leave behind ghosts on death. Stronger enemies leave bigger ghosts. Using the item causes the ghosts to explode and damage nearby enemies, and instantly kills all ghost enemies with less than 50% HP.	2
+(in Repentance) Wavy Cap	5.100.582	Wavy Cap0	Tears up. A mind changing experience!	Increases fire rate, decreases speed, and distorts the screen. All effects become more pronounced with repeated use, and wear off by clearing rooms.	1
+(in Repentance) Yuck Heart	5.100.639	Yuck Heart4 rooms	Gross!	Gives Isaac a Rotten Heart.	1
+???'s Only Friend	5.100.320	???'s Only Friend	Controlled friend	Spawns a controllable familiar that deals 37.5 damage per second on touch. It can be moved using the shooting directional keys	1
+<3	5.100.15	<3	HP up	Grants Isaac one Red Heart container and fully restores Isaac's health.	2
+1up!	5.100.11	1up!	Extra life	Gives Isaac an extra life. Upon death, he will respawn in the previous room with full health, after which 1up! will disappear.	2
+20/20	5.100.245	20/20	Double shot	Isaac fires two tears at once, one from each eye. (in Repentance) 0.8x damage multiplier.	4
+3 Dollar Bill	5.100.191	3 Dollar Bill	Rainbow tears	(in Rebirth) Gives Isaac a random tear effect every room.(except in Rebirth) Gives Isaac a random tear effect every few seconds.	2
+9 Volt	5.100.116	9 Volt	Quicker charge	Reduces the charge of any activated item by 1. Any 1 charge items instead have timed recharges.	2
+A Dollar	5.100.18	A Dollar	$$$	Gives Isaac 100 Pennies.	3
+A Lump of Coal	5.100.132	A Lump of Coal	My Xmas present	The more distance tears travel, the more damage they will do.	3
+A Quarter	5.100.74	A Quarter	+25 coins	Gives Isaac 25 coins.	0
+A Snack	5.100.346	A Snack	HP up	Grants one full Red Heart container. (in Repentance) Heals 1 additional Red Heart. Has the appearance of a dog treat.	1
+Abaddon	5.100.230	Abaddon	Evil + DMG up + fear shot	(except in Repentance) +1.5 damage, +0.2 speed. Removes all Red Heart containers, grants six Black Hearts, and adds a chance to shoot fear tears.(in Repentance) +1.5 damage, +0.2 speed. Grants two Black Hearts, converts all Red Heart Containers into Black Hearts, and adds a chance to shoot fear tears.	3
+Abel	5.100.188	Abel	Mirrored buddy	(in Rebirth) Spawns a familiar that mirrors Isaac's movements and shoots in the opposite direction.(except in Rebirth) Spawns a familiar that mirrors Isaac's movements and shoots towards him.	0
+Anemic	5.100.214	Anemic	Toxic blood	After Isaac is damaged, a trail of red creep will be left behind him until he leaves the current room. (except in Repentance) +5 range. (in Repentance) +1.5 range.	1
+Ankh	5.100.161	Ankh	Eternal life?	Upon death, Isaac will respawn as ??? in the previous room, with 3 Soul Hearts.	1
+Anti-Gravity	5.100.222	Anti-Gravity	Anti-gravity tears + tears up	Tears float in position until firing ceases, after which they will fly off in the direction they were shot in. (except in Repentance) -2 Tear Delay. (in Repentance) +1 Fire Rate.	2
+Aquarius	5.100.308	Aquarius	Trail of tears	A trail of blue creep is left behind Isaac, which damages enemies. (in Repentance) The creep inherits most of Isaac's tear effects, like homing, etc.	2
+Aries	5.100.300	Aries	Ramming speed	+0.25 Speed. Running into enemies while at a high speed will deal damage. (in Repentance) Prevents Isaac from taking contact damage while moving at high speed.	2
+Ball of Bandages	5.100.207	Ball of Bandages	Gotta lick 'em all!	Creates an orbital familiar. Collecting additional copies gives it the ability to shoot Charm tears, then chase enemies to deal contact damage, then deal even more contact damage.	2
+Ball of Tar	5.100.231	Ball of Tar	Sticky feet...	Adds a chance to shoot slowing tears. Isaac leaves a trail of slowing creep behind as he moves, impeding enemies' speed.	2
+BBF	5.100.272	BBF	Big Beautiful Fly	Spawns a familiar that flies around the room in a zig-zag pattern and explodes on contact with an enemy. Respawns after ten seconds.	1
+Best Bud	5.100.274	Best Bud	Sworn protector	When hit, spawns a quickly orbiting attack fly similar to Forever alone for the current room that deals high damage.	0
+BFFS!	5.100.247	BFFS!	Your friends rule!	Increases the size and effectiveness of most familiars.	2
+Big Fan	5.100.279	Big Fan	Fat protector	Spawns a large orbital familiar that blocks enemy shots and deals 30 damage per second to enemies.	2
+Black Candle	5.100.260	Black Candle	Curse immunity + evil up	Prevents curses. Grants one Black Heart. Increases the chance for a Devil Room or Angel Room to appear.	3
+Black Lotus	5.100.226	Black Lotus	HP up x3!	Grants one Red Heart Container, one Soul Heart, and one Black Heart.	2
+Blood Bag	5.100.119	Blood Bag	HP up	Grants one filled Red Heart container, restores 4 Red Hearts, and increases speed by 0.3.	2
+Blood Clot	5.100.254	Blood Clot	DMG + range up	(except in Repentance)Tears fired from the left eye have +1 flat damage, +5 range, and +0.5 tear falling speed.(in Repentance)Tears fired from the left eye have +1 flat damage and +2.75 range.	2
+Blood of the Martyr	5.100.7	Blood of the Martyr	DMG up	+1 damage. Isaac shoots blood tears.	3
+Bloody Lust	5.100.157	Bloody Lust	RAGE!	Increases Isaac's damage whenever he takes damage, up to six times. The bonus resets when entering a new floor.	2
+Blue Cap	5.100.342	Blue Cap	HP + tears up + shot speed down	Gives one full Red Heart container, +0.7 tears, and -0.16 shot speed. (in Repentance) Heals 1 additional Red Heart.	3
+Blue Map	5.100.246	Blue Map	Secrets	Reveals the locations of Secret Rooms and Super Secret Rooms on the map.	2
+Bob's Brain	5.100.273	Bob's Brain	Explosive thoughts	Spawns a familiar that charges forward when shooting tears and explodes upon contact with an enemy, damaging and poisoning them. The familiar respawns after a few seconds.	1
+Bob's Curse	5.100.140	Bob's Curse	+5 poison bombs	+5 Bombs. Grants Isaac's bombs a poison effect. (in Repentance) They also leave a lingering poison cloud, and Isaac becomes immune to poison.	1
+Bobby-Bomb	5.100.125	Bobby-Bomb	Homing bombs!	+5 Bombs. Bombs gain a homing effect, slowly moving towards the nearest enemy.	2
+BOGO Bombs	5.100.250	BOGO Bombs	1+1 BOOM!	All normal Bombs become Double Bombs.	1
+Bomb Bag	5.100.131	Bomb Bag	Gives bombs	Spawns a familiar that drops a Bomb every 3 rooms.	2
+Boom!	5.100.19	Boom!	10 bombs	Grants 10 Bombs.	0
+Box	5.100.198	Box	Stuff	Spawns various pickups: 1 coin, 1 Key, 1 Bomb, 1 Heart, 1 card/rune, 1 pill and 1 trinket.	0
+Breakfast	5.100.25	Breakfast	HP up	Grants one full Red Heart container. (in Repentance) Heals 1 additional Red Heart. Has the appearance of a spoiled milk carton.	1
+Brimstone	5.100.118	Brimstone	Blood laser barrage	Tears are replaced by a laser beam that pierces through all enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period.	4
+Broken Watch	5.100.337	Broken Watch	I think it's broken	Slows all enemies in every fourth newly-discovered room, with a small chance to speed them up instead.	1
+Brother Bobby	5.100.8	Brother Bobby	Friends 'till the end	Spawns a familiar that follows Isaac around shooting tears that deal 3.5 damage. (in Repentance) He shoots more frequently than most familiars.	1
+Bucket of Lard	5.100.129	Bucket of Lard	HP up	(except in Repentance) Grants two empty Red Heart containers, heals Isaac for a Half Red Heart, -0.2 speed.(in Repentance) Grants two Red Heart containers, -0.2 speed.	1
+Bum Friend	5.100.144	Bum Friend	He's greedy	Spawns a familiar that picks up coins for himself, giving random pickups in return. (in Repentance) Can spawn Items from the Beggar Item Pool.	1
+Butt Bombs	5.100.209	Butt Bombs	Toxic blast +5 bombs	+5 Bombs. Bombs now cloud up the screen, briefly damaging and confusing all enemies.	2
+Caffeine Pill	5.100.340	Caffeine Pill	Speed up + size down	Grants +0.3 speed, reduces character size, and gives a random pill.	1
+Cain's Other Eye	5.100.319	Cain's Other Eye	Near-sighted friend	(except in Repentance) Spawns a familiar that slowly floats around the room on a zig-zag pattern and shoots normal tears in the same direction as Isaac.(in Repentance) Spawns a familiar that follows Isaac and fires tears in random cardinal directions that copy Isaac's tears and tear effects and scale with damage.	2
+Cancer	5.100.301	Cancer	HP up + you feel protected	Adds 3 Soul Hearts. Grants The Wafer effect for the current room after taking damage.	3
+Capricorn	5.100.307	Capricorn	All stats up	(except in Repentance) Adds 1 Red Heart Container, gives +0.5 Damage, +0.1 Speed, +1.5 Range, and -1.0 Tear Delay, and gives 1 Bomb, Penny, and Key.(in Repentance) Adds 1 Red Heart Container, gives +0.5 Damage, +0.1 Speed, +0.75 Range, and +0.5 Fire Rate, and gives 1 Bomb, Penny, and Key.	3
+Cat-o-nine-tails	5.100.165	Cat-o-nine-tails	Shot speed + damage up	+1 damage, +0.23 shot speed.	3
+Celtic Cross	5.100.162	Celtic Cross	Blessing of protection	Grants a chance to trigger the Book of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 7 seconds.	1
+Ceremonial Robes	5.100.216	Ceremonial Robes	DMG + evil up	Grants 3 Black Hearts, and +1 damage.	3
+Champion Belt	5.100.208	Champion Belt	DMG + challenge up	+1 damage. Increases the chance of champion enemies appearing by 15%.	3
+Charm of the Vampire	5.100.62	Charm of the Vampire	DMG up + kills heal	Heals Isaac for a Half Red Heart for every 13 enemies killed. (in Repentance) +0.3 damage.	1
+Chemical Peel	5.100.154	Chemical Peel	DMG up	Tears fired from the left eye have +2 flat damage.	2
+Chocolate Milk	5.100.69	Chocolate Milk	Charge shots	Grants charged tears that deal greater damage when fully charged.	3
+Contract From Below	5.100.241	Contract From Below	Wealth... but at what cost?	Doubles the number of most room clear awards, but reduces the overall chance of getting one by 1/3.	3
+Cricket's Body	5.100.224	Cricket's Body	Bursting shots + tears up	When tears hit an object or deplete their range, they spawn 4 smaller tears, whose range and damage scale with Isaac's. (except in Repentance) Grants -1 tear delay and reduces range. (in Repentance) Grants +0.5 fire rate and reduces range.	3
+Cricket's Head	5.100.4	Cricket's Head	DMG up	Increases Damage by 0.5, and increases damage multiplier by x1.5.	4
+Cube of Meat	5.100.73	Cube of Meat	Gotta meat 'em all!	Creates an orbital familiar. Collecting additional copies gives it the ability to shoot tears, then chase enemies to deal contact damage, then deal even more contact damage.	2
+Cupid's Arrow	5.100.48	Cupid's Arrow	Piercing shots	Grants Isaac piercing tears that travel through enemies (but not obstacles) instead of breaking on impact with them.	3
+Cursed Eye	5.100.316	Cursed Eye	Cursed charge shot	Grants charged tears that can be fired in a tight burst. Getting hit while charging will teleport Isaac to another room.	0
+Daddy Longlegs	5.100.170	Daddy Longlegs	Daddy's love	Daddy Long Legs' shadow follows Isaac and occasionally stomps enemies for 40 damage total.	3
+Dark Bum	5.100.278	Dark Bum	He wants to take your life	Spawns a familiar that follows Isaac around and collects Red Hearts. For every 1½ Red Hearts collected, Dark Bum will give a reward.	3
+Dark Matter	5.100.259	Dark Matter	DMG up + fear shot	+1 damage, adds a chance to shoot fear tears.	3
+Dead Bird	5.100.117	Dead Bird	Protective buddy	After Isaac takes damage, spawns a flying familiar that chases enemies for the current room, dealing ~4 damage per second.	0
+Dead Cat	5.100.81	Dead Cat	9 lives	Sets Isaac's Red Heart Containers to 1, but grants 9 extra lives. After dying, Isaac respawns with 1 Red Heart Container.	3
+Dead Dove	5.100.185	Dead Dove	Flight + spectral tears	Grants spectral tears and flight.	3
+Dead Onion	5.100.336	Dead Onion	Toxic aura tears	Grants piercing and spectral tears. Increases tear size (without increasing damage) while greatly reducing range and shot speed.	3
+Death's Touch	5.100.237	Death's Touch	Piercing shots + DMG up	+1.5 damage, -0.3 tears. Tears are replaced with large piercing scythes.	3
+Demon Baby	5.100.113	Demon Baby	Auto-turret friend	Spawns a familiar that follows Isaac and automatically fires at enemies in its reach.	2
+Dessert	5.100.24	Dessert	HP up	Grants one full Red Heart container. (in Repentance) Heals 1 additional Red Heart. Has the appearance of a sack.	1
+Dinner	5.100.23	Dinner	HP up	Grants one full Red Heart container. (in Repentance) Heals 1 additional Red Heart. Has the appearance of a can of dog food. 	1
+Distant Admiration	5.100.57	Distant Admiration	Attack fly	Spawns an attack fly that circles further out than Halo of Flies, but closer than Forever alone, dealing 75 damage per second.	2
+Dr. Fetus	5.100.52	Dr	???	Tears are replaced by Bombs that benefit from bomb-enhancing effects and slide for a fixed time after being fired.	4
+Dry Baby	5.100.265	Dry Baby	Immortal friend	Spawns a familiar that follows Isaac around and blocks enemy projectiles. Upon blocking a shot, it has a chance of triggering The Necronomicon effect.	3
+E. Coli	5.100.236	E	Turdy touch	Enemies that touch Isaac are transformed into Poop.	1
+Epic Fetus	5.100.168	Epic Fetus	On-demand air strike	Isaac's tears are replaced with guided missiles, like those used by the Doctor's Remote.	4
+Eve's Mascara	5.100.310	Eve's Mascara	DMG up, tears + shot speed down	(except in Repentance) Doubles damage, halves tears stat, and greatly reduces shot speed.(in Repentance) Doubles damage, 0.66x tears multiplier, and greatly reduces shot speed.	3
+Experimental Treatment	5.100.240	Experimental Treatment	Some stats up, some stats down	(in Rebirth and Afterbirth) Randomly increases and decreases some of Isaac's stats.(in Afterbirth † and Repentance) Increases four random stats and decreases the other two.	1
+Fanny Pack	5.100.204	Fanny Pack	Filled with goodies	Has a chance to drop a random pickup when Isaac takes damage.	1
+Fate	5.100.179	Fate	Flight eternal	Grants flight and one Eternal Heart.	3
+Fire Mind	5.100.257	Fire Mind	Flaming tears	Grants flaming tears that deal burning damage over time. Tears have a chance to explode on impact with an enemy, which creates a fire at the location of the explosion.	2
+Forever alone	5.100.128	Forever alone	Attack fly	Spawns an attack fly that orbits a long distance from Isaac, dealing 30 damage per second.	1
+Gemini	5.100.318	Gemini	Conjoined friend	Spawns a conjoined familiar which chases enemies close to Isaac, dealing ~8 damage per second.	1
+Ghost Baby	5.100.163	Ghost Baby	Spectral buddy	Spawns a familiar that follows Isaac around and fires spectral tears.	1
+Gimpy	5.100.225	Gimpy	Sweet suffering	Gives chance of spawning a Soul Heart when taking damage. Enemies have a chance to drop a Half Red Heart after being killed.	2
+Gnawed Leaf	5.100.210	Gnawed Leaf	Unbreakable	After standing still and not shooting for a short time, Isaac turns invincible until he moves or shoots.	1
+Goat Head	5.100.215	Goat Head	He accepts your offering	A Devil Room / Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4.	3
+Godhead	5.100.331	Godhead	God tears	(except in Repentance) Grants homing tears with a damaging halo. +0.5 Damage, -0.3 Tears -0.3 Shot Speed, +0.8 Tear Falling Speed, and +1.2 Range.(in Repentance) Grants homing tears with a damaging halo. +0.5 Damage, -0.3 Tears, and -0.3 Shot Speed.	4
+Growth Hormones	5.100.70	Growth Hormones	Speed + DMG up	(except in Repentance) +1 damage, +0.4 speed.(in Repentance) +1 damage, +0.2 speed.	3
+Guardian Angel	5.100.112	Guardian Angel	Extra protection	Spawns an orbital familiar that blocks enemy shots, deals (except in Repentance) 105 /(in Repentance) 52.5 damage per second to enemies, and increases the speed of all orbital familiars.	2
+Guillotine	5.100.206	Guillotine	DMG + tears up. An out-of-body experience!	Isaac's head is removed from his body and floats around him as an orbital. (except in Repentance) Gives +1 damage and grants -1 tear delay. (in Repentance) Gives +1 damage and grants +0.5 fire rate.	2
+Guppy's Collar	5.100.212	Guppy's Collar	Eternal life?	Grants a permanent 50% chance to respawn with 1/2 of a Red Heart after death.	1
+Guppy's Hairball	5.100.187	Guppy's Hairball	Swing it	Spawns a familiar that loosely follows behind Isaac, which blocks shots can be swung like a flail to damage enemies. Grows bigger by killing enemies.	1
+Guppy's Tail	5.100.134	Guppy's Tail	Cursed?	Room Clear Awards have a 1/3 chance of being replaced with a Chest and a 2/9 chance being replaced with nothing.	2
+Habit	5.100.156	Habit	Item martyr	When Isaac is hit, his active item gains 1 room's worth of charge.	2
+Halo of Flies	5.100.10	Halo of Flies	Projectile protection	Spawns two Pretty Flies that block enemy shots and deal contact damage to flies.	2
+Harlequin Baby	5.100.167	Harlequin Baby	Double shot buddy	Spawns a familiar that follows Isaac around and fires two tears at once in a V-pattern.	1
+Headless Baby	5.100.269	Headless Baby	Bloody friend	Spawns a familiar that follows Isaac, leaving blood creep on the ground.	1
+Hive Mind	5.100.248	Hive Mind	Giant spiders and flies	Increases the size of Blue Spiders and Blue Flies and doubles the amount of damage they deal. (in Repentance) Also increases the effectiveness of fly and spider familiars.	2
+Holy Grail	5.100.184	Holy Grail	Flight + HP up	Grants flight and one Red Heart container. (in Repentance) Heals 1 additional Red Heart.	3
+Holy Mantle	5.100.313	Holy Mantle	Holy shield	Grants a shield that negates the first instance of damage taken, once per room. Does not apply to or negate self-damage (Blood Donation Machines, etc).	4
+Holy Water	5.100.178	Holy Water	Splash!	(except in Repentance) Spawns a bottle familiar that breaks when Isaac takes damage, leaving a puddle of blue creep.(in Repentance) A bottle familiar that flies forward when Isaac shoots. It breaks upon hitting an enemy, leaving a puddle of blue creep that petrifies enemies.	3
+Hot Bombs	5.100.256	Hot Bombs	Burning blast +5 bombs	+5 Bombs. Isaac's bombs leave behind fire that damages enemies upon contact.	1
+Humbleing Bundle	5.100.203	Humbleing Bundle	1+1 free 4Evar	Transforms Bombs, Keys, Pennies, and Red Hearts into their respective Double versions. (in Repentance) This will occur 50% of the time.	3
+Infamy	5.100.242	Infamy	Blocks damage... sometimes	Gives Isaac a 50% chance to block projectiles coming from any direction.	2
+Infestation	5.100.148	Infestation	Fly revenge	(except in Repentance) 1-3 Blue Flies randomly spawn every time Isaac gets hit.(in Repentance) 2-6 Blue Flies	0
+Infestation 2	5.100.234	Infestation 2	Infestation shot	Spawns allied Blue Spiders from killed enemies.	3
+Ipecac	5.100.149	Ipecac	Explosive shots	Replaces tears with explosive and poisoning projectiles fired in an arc from the mouth.	4
+Iron Bar	5.100.201	Iron Bar	DMG up + concussive tears	+0.3 damage. Adds a chance to shoot concussive tears, causing enemies to walk around randomly.	2
+Isaac's Heart	5.100.276	Isaac's Heart	Protect it	Isaac himself is now immune to all damage, and a heart familiar follows him. If the heart is hurt, Isaac is hurt. (in Repentance) The heart charges up as Isaac shoots, firing 8 blood shots, knocking back enemies, and leaving a puddle of creep when released.	0
+Jesus Juice	5.100.197	Jesus Juice	Damage + range up	(except in Repentance) +0.5 damage, +0.25 range, +0.5 tear falling speed.(in Repentance) +0.5 damage, +1.5 range.	2
+Judas' Shadow	5.100.311	Judas' Shadow	Sweet revenge	Upon death, respawns Isaac as Dark Judas with two Black Hearts in the previous room.	3
+Juicy Sack	5.100.266	Juicy Sack	Sticky babies	Spawns a familiar that follows Isaac and drips a trail of slow creep, spawning 1-2 Blue Spiders after each room.	2
+Key Piece 1	5.100.238	Key Piece 1	???	Combined with Key Piece 2, unlocks the golden gate in the starting room of Chest and Dark Room to fight Mega Satan.	0
+Key Piece 2	5.100.239	Key Piece 2	???	Combined with Key Piece 1, unlocks the golden gate in the starting room of Chest and Dark Room to fight Mega Satan.	0
+Latch Key	5.100.343	Latch Key	Luck up	Grants 1 Soul Heart and +1 luck. Spawns 2 Keys.	1
+Lazarus' Rags	5.100.332	Lazarus' Rags	Eternal life?	(except in Repentance) Upon dying, resurrect as Lazarus Risen in the current room with one Red Heart container and Anemic.(in Repentance) Upon dying, resurrect as Lazarus Risen in the current room with one less Red Heart container, Anemic, and +0.5 Damage. Transform into Lazarus when reaching the next floor.	1
+Leech	5.100.270	Leech	Blood sucker	Spawns a leech familiar that chases enemies, dealing ~3 damage per second. Heals a Half Red Heart whenever Leech kills an enemy.	2
+Leo	5.100.302	Leo	Stompy	Isaac can destroy rocks by walking into them.	1
+Libra	5.100.304	Libra	You feel balanced	Gives 6 Coins, 6 Bombs, and 6 Keys and balances out all attributes.	1
+Lil Brimstone	5.100.275	Lil Brimstone	Evil friend	Grants a familiar that charges a thin Brimstone laser while Isaac is shooting.	2
+Lil Haunt	5.100.277	Lil Haunt	Fear him	Spawns a familiar that chases down enemies, dealing 4 damage per second and inflicting fear.	1
+Little Baggy	5.100.252	Little Baggy	Extra pill room	Isaac can hold 2 pills at once and all cards and runes are replaced by pills.	0
+Little C.H.A.D.	5.100.96	Little C.H.A.D.	Gives kisses	Spawns a familiar who drops a Half Red Heart every 3 rooms.	2
+Little Chubby	5.100.88	Little Chubby	Attack buddy	Spawns a Charger familiar that charges forward and deals contact damage to any enemies in its path.	2
+Little Gish	5.100.99	Little Gish	Sticky friend	Spawns a familiar that follows Isaac around and fires slowing tears, impeding enemies' speed.	2
+Little Steven	5.100.100	Little Steven	Psychic friend	Spawns a familiar who follows Isaac around and fires homing tears.	2
+Loki's Horns	5.100.87	Loki's Horns	Cross tears	Gives a random chance for projectiles to fire in all 4 cardinal directions.	1
+Lord of the Pit	5.100.82	Lord of the Pit	Demon wings	Grants flight and +0.3 speed.	3
+Lost Contact	5.100.213	Lost Contact	Shielded tears	Isaac's tears can hit and destroy enemy projectiles. -0.15 shot speed.	2
+Lucky Foot	5.100.46	Lucky Foot	Luck up	+1 luck. Improves Isaac's chances at various random events (independent from the luck stat). (in Repentance) Converts all bad pills into good pills, without identifying them.	2
+Lunch	5.100.22	Lunch	HP up	Grants one full Red Heart container. (in Repentance) Heals 1 additional Red Heart. Has the appearance of pudding. 	1
+Maggy's Bow	5.100.312	Maggy's Bow	HP up + you feel healthy	Gives one Red Heart Container and doubles the healing provided by Red Hearts. (in Repentance) Also heals 1 Red Heart when obtained.	2
+Magic 8 Ball	5.100.194	Magic 8 Ball	Shot speed up	+0.16 shot speed, spawns a random tarot card. (in Repentance) Increases the chance of finding a Planetarium.	1
+Magic Mushroom	5.100.12	Magic Mushroom	All stats up!	(except in Repentance) Makes Isaac bigger. Adds one Red Heart Container, +0.3 Damage, x1.5 damage multiplier, +5.25 Range, and +0.3 Speed, and restores all Health.(in Repentance) Makes Isaac bigger. Adds one Red Heart Container, +0.3 Damage, x1.5 damage multiplier, +2.5 Range, and +0.3 Speed, and restores all Health.	4
+Magic Scab	5.100.253	Magic Scab	HP + luck up	Grants one full Red Heart container, +1 luck. (in Repentance) Heals 1 additional Red Heart.	2
+Magneto	5.100.53	Magneto	Item snatcher	Pulls pickups towards Isaac.	1
+Match Book	5.100.344	Match Book	Evil up	Grants Isaac one Black Heart, spawns two or three Bombs.	1
+MEAT!	5.100.193	MEAT!	DMG + HP up	Grants one full Red Heart container, +0.3 damage. (in Repentance) Heals 1 additional Red Heart	2
+Midas' Touch	5.100.202	Midas' Touch	Golden touch	Enemies that touch Isaac are temporarily petrified and turn to gold. Any enemy killed while in this state will drop Pennies.	2
+Mini Mush	5.100.71	Mini Mush	Speed + range up	Decreases Isaac's size, making him less likely to be hit. (except in Repentance)+0.3 speed, +1.5 tear falling speed, -4.25 range (effective range is increased). (in Repentance) +0.3 speed, +2.5 range.	2
+Missing No.	5.100.258	Missing No.	Syntax error	Randomizes all passive items and stats upon pickup and at the start of each succeeding floor.	0
+Missing Page 2	5.100.262	Missing Page 2	Evil up. Your enemies will pay!	Grants one Black Heart. Upon taking damage that reduces Isaac's health to one heart or less, deals damage to all enemies in the room. (in Repentance) Increases the damage of Black Hearts and The Necronomicon-like effects by 40.	0
+Mitre	5.100.173	Mitre	Blessing of purity	Grants a chance of converting any Red Heart pickups into Soul Hearts instead.	3
+Mom's Coin Purse	5.100.195	Mom's Coin Purse	What's all this...?	Spawns 4 random pills near Isaac.	1
+Mom's Contacts	5.100.110	Mom's Contacts	Freeze effect	Adds a chance to shoot petrifying tears, which stop enemies in place and prevent them from moving or attacking. (except in Repentance) +0.25 range. (in Repentance) +1.5 range.	3
+Mom's Eye	5.100.55	Mom's Eye	Eye in the back of your head	Gives Isaac a chance to fire tears from the back of his head.	1
+Mom's Eyeshadow	5.100.200	Mom's Eyeshadow	Charm tears	Tears have a chance to charm enemies.	1
+Mom's Heels	5.100.30	Mom's Heels	Range up	(except in Repentance) +5.25 range, +0.5 tear falling speed.(in Repentance) +2.5 range, enemies that touch Isaac take 12 damage.	1
+Mom's Key	5.100.199	Mom's Key	Better chest loot +2 keys	Adds 2 keys. Chests will drop additional pickups.	3
+Mom's Knife	5.100.114	Mom's Knife	Stab stab stab	Isaac's tears are replaced by a knife that pierces enemies, can travel through obstacles, and can hurt enemies while Isaac is holding it. Holding down the fire button before firing increases its range and power.	4
+Mom's Lipstick	5.100.31	Mom's Lipstick	Range up	(except in Repentance)+5.25 range, +0.5 tear falling speed.(in Repentance) +3.75 range. Spawns a Heart on pickup.	1
+Mom's Perfume	5.100.228	Mom's Perfume	Fear shot + tears up	Adds a chance to shoot fear tears. (except in Repentance) Decreases tear delay by 1. (in Repentance) +0.5 fire rate.	2
+Mom's Purse	5.100.139	Mom's Purse	More trinket room	Allows Isaac to hold one additional trinket. (in Repentance) Drops a random trinket.	2
+Mom's Underwear	5.100.29	Mom's Underwear	Range up	(except in Repentance) +5.25 range, +0.5 tear falling speed.(in Repentance) +2.5 range. Spawns 3-6 Blue Flies on pickup.	1
+Mom's Wig	5.100.217	Mom's Wig	You feel itchy...	Adds a chance to spawn Blue Spiders when firing tears. Restores 1 Red Heart.	2
+Money = Power	5.100.109	Money = Power	$$$ = DMG	Increases damage by 0.04 for every coin Isaac has, up to +3.96 damage at 99 coins.	3
+Mongo Baby	5.100.322	Mongo Baby	Mongo friend	Spawns a familiar that copies the tears of Isaac's other familiars.	2
+Monstro's Lung	5.100.229	Monstro's Lung	Charged burst attack	Replaces normal tears with a charged shot that fires 14 tears in the same fashion as Monstro.	2
+Mr. Mega	5.100.106	Mr	Bigger boom	+5 Bombs. Increases the size, blast radius, and damage of Isaac's bombs.	2
+Mutant Spider	5.100.153	Mutant Spider	Quad shot	Grants quadruple shot but decreases Tears.	3
+My Reflection	5.100.5	My Reflection	Boomerang tears + DMG up + luck down	Gives Isaac's tears a boomerang effect. (except in Repentance) +1.5 range, +1 tear falling speed, x1.6 shot speed multiplier. (in Repentance) 2x + 1.5 range, +1.5 damage, -1 luck, 1.6x shot speed multiplier.	2
+Mysterious Liquid	5.100.317	Mysterious Liquid	Toxic splash damage	Tears leave a small, short lasting pool of creep on impact or when their range is depleted.	3
+Mystery Sack	5.100.271	Mystery Sack	?	Spawns a familiar that drops a Heart, coin, Bomb, or Key every 5-6 rooms.	2
+Number One	5.100.6	Number One	Tears up + range down	Grants +1.5 tears, but severely reduces range.	2
+Odd Mushroom	5.100.121	Odd Mushroom	HP + DMG up, speed down	(except in Repentance) Grants one empty Heart container, +0.3 damage, +0.25 range, +0.5 tear falling speed, and -0.1 speed.(in Repentance) Grants one full Heart container, +1 damage, +1.5 range, and -0.2 speed	2
+Odd Mushroom	5.100.120	Odd Mushroom	Tears + speed up, DMG down	+1.7 tears, +0.3 speed, slightly reduces damage.	2
+Old Bandage	5.100.219	Old Bandage	HP up	Grants an empty Red Heart container. Adds a chance of dropping a Red Heart after taking damage.	2
+Ouija Board	5.100.115	Ouija Board	Spectral tears + tears up	Grants spectral tears that travel through obstacles (but not enemies). (in Repentance) +0.5 tears.	2
+Pageant Boy	5.100.141	Pageant Boy	Ultimate grand supreme	Spawns seven random coins around Isaac.	0
+Pentagram	5.100.51	Pentagram	DMG up	+1 damage, increases Devil Room / Angel Room chance by 10%.	3
+PHD	5.100.75	PHD	Better pills	Converts all bad pills into good pills, spawns one pill pickup, and identifies all pills. Restores two Red Hearts and increases the payout of Blood Donation Machines.	2
+Piggy Bank	5.100.227	Piggy Bank	My life savings	Gives 3 Pennies on pick-up. Every time Isaac is damaged, he will drop one or two additional pennies.	1
+Pisces	5.100.309	Pisces	Tears up + knock-back shots	(except in Repentance) -1 Tear Delay, adds knock-back shots and increases tear size(in Repentance) +0.5 Fire Rate, adds knock-back shots and increases tear size.	2
+Placenta	5.100.218	Placenta	Regeneration + HP up	Grants one full Red Heart container, and a chance to regenerate a Half Red Heart of health every minute of gameplay.	2
+Polyphemus	5.100.169	Polyphemus	Mega tears	Isaac fires huge tears that deal massive damage, but fire rate is greatly decreased. If a tear kills an enemy, it travels on with any leftover damage.	4
+Proptosis	5.100.261	Proptosis	Short range mega tears	Tears start out massive with high damage, and then shrink down and become weaker over a short range.	3
+Punching Bag	5.100.281	Punching Bag	Scape goat	Spawns a Mulligan familiar that wanders randomly. Enemies will attack the Mulligan if it's closer.	1
+Pyro	5.100.190	Pyro	99 bombs	Grants 99 Bombs.	3
+Pyromaniac	5.100.223	Pyromaniac	It hurts so good +5 bombs	+5 bombs. Grants immunity to explosion damage and causes explosions to heal Isaac. (in Repentance) Also grants immunity to fire.	4
+Rainbow Baby	5.100.174	Rainbow Baby	Random buddy	Spawns a familiar that follows Isaac around and fires tears with random effects.	1
+Raw Liver	5.100.16	Raw Liver	HP up	Grants 2 Red Heart containers and completely restores health.	2
+Robo-Baby	5.100.95	Robo-Baby	Friends 'till the bbbbzzzt	Spawns a familiar that shoots Technology lasers.	1
+Robo-Baby 2.0	5.100.267	Robo-Baby 2	We worked out all the kinks	Spawns a familiar that fires lasers at any enemy in its line of sight and moves based on the direction Isaac is firing tears.	1
+Roid Rage	5.100.14	Roid Rage	Speed and range up	(except in Repentance) +0.6 speed, +5.25 range, +0.5 tear falling speed.(in Repentance) +0.3 speed, +2.5 range	2
+Rosary	5.100.72	Rosary	Tears + faith up	Grants 3 Soul Hearts. Causes The Bible to appear in any item pool. (in Repentance) +0.5 tears.	2
+Rotten Baby	5.100.268	Rotten Baby	Infested friend	Spawns a familiar that spawns a Blue Fly when Isaac shoots. It can only have one Fly at a time.	3
+Rotten Meat	5.100.26	Rotten Meat	HP up	Grants one full Red Heart container. (in Repentance) Heals 1 additional Red Heart. Has the appearance of green meat on a bone.	1
+Rubber Cement	5.100.221	Rubber Cement	Bouncing tears	Tears bounce off walls, enemies, and environmental objects.	3
+Sack of Pennies	5.100.94	Sack of Pennies	Gives money	Spawns a familiar that drops a coin every 2 rooms.	1
+Sacred Heart	5.100.182	Sacred Heart	Homing shots + DMG up	(except in Repentance) Adds a Red Heart Container. Grants homing tears, a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears, -0.25 Shot Speed, and +4.125 Range.(in Repentance) Adds a Red Heart Container. Grants homing tears, a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears, and -0.25 Shot Speed.	4
+Sacrificial Dagger	5.100.172	Sacrificial Dagger	My fate protects me	Spawns a dagger orbital familiar, blocking enemy shots and dealing a high amount of damage to enemies in contact.	2
+Sad Bombs	5.100.220	Sad Bombs	Tear blasts +5 bombs	+5 Bombs. Upon exploding, bombs shoot 10 tears around them, affected by tear modifiers.	2
+Safety Pin	5.100.339	Safety Pin	Evil + range + shot speed up	(except in Repentance) Grants one Black Heart, +5.25 range, +0.5 tear falling speed, +0.16 shot speed.(in Repentance) Grants one Black Heart, +2.5 range, +0.16 shot speed.	1
+Sagittarius	5.100.306	Sagittarius	Piercing shots + speed up	Increases speed by +0.2 and grants piercing tears.	3
+Samson's Chains	5.100.321	Samson's Chains	The ol' ball and chain	Attaches a ball and chain to Isaac that pulls behind him that damages enemies, blocks shots, and destroys most Obstacles.	1
+Scapular	5.100.142	Scapular	Pray for a miracle	Once per room, when Isaac is reduced to his last half heart, he is granted one Soul Heart.	2
+Scorpio	5.100.305	Scorpio	Poison tears	Grants poison tears, which deal damage over time when inflicted.	3
+Screw	5.100.255	Screw	Tears + shot speed up	+0.5 tears, +0.2 shot speed.	3
+Sharp Plug	5.100.205	Sharp Plug	Infinite charge... at a cost	Damages Isaac in exchange for fully recharging Isaac's current activated item.	2
+Sissy Longlegs	5.100.280	Sissy Longlegs	She loves you	Spawns a familiar that wanders randomly, occasionally spawning Blue Spiders. (in Repentance) Briefly charms enemies on contact.	1
+Sister Maggy	5.100.67	Sister Maggy	Friends 'till the end	(except in Repentance) Spawns a familiar that follows Isaac around shooting tears that deal 3.5 damage.(in Repentance) Spawns a familiar that follows Isaac around shooting tears that deal 6 damage.	1
+Skatole	5.100.9	Skatole	Fly love	Flies become harmless or less dangerous depending on the type.	0
+Skeleton Key	5.100.17	Skeleton Key	99 keys	Gives Isaac 99 Keys.	3
+Smart Fly	5.100.264	Smart Fly	Revenge fly	Spawns an orbital familiar that blocks enemy shots. Upon taking damage, the familiar will pursue enemies for the rest of the room, dealing 22.5 damage per second.	2
+SMB Super Fan	5.100.189	SMB Super Fan	All stats up	(except in Repentance) +1 Red Heart container, +0.3 damage, +0.2 tears, +0.2 speed, +0.5 range, +1 tear falling speed. Fully restores all red hearts.(in Repentance) +1 Red Heart container, +0.3 damage, +0.2 tears, +0.2 speed, +2.5 range. Fully restores all red hearts.	3
+Soy Milk	5.100.330	Soy Milk	DMG down + tears way up	Tears are smaller and do much less damage, but fire in very rapid succession.	2
+Speed Ball	5.100.143	Speed Ball	Speed + shot speed up	+0.3 speed, +0.2 shot speed.	2
+Spelunker Hat	5.100.91	Spelunker Hat	See-through doors	Reveals type of adjacent rooms, including location for Secret Rooms and Super Secret Rooms. (in Repentance) Reveals rooms up to 2 rooms away and blocks projectiles falling from above.	2
+Spider Bite	5.100.89	Spider Bite	Slow effect	Adds a chance to shoot slowing tears, reducing speed of enemy movement and any projectile fired by them.	2
+Spiderbaby	5.100.211	Spiderbaby	Spider revenge	(except in Repentance) Spawns 1-2 Blue Spiders when Isaac takes damage.(in Repentance) Spawns 3-5 Blue Spiders when Isaac takes damage.	0
+Spirit of the Night	5.100.159	Spirit of the Night	Scary	Grants spectral tears and flight.	3
+Spoon Bender	5.100.3	Spoon Bender	Homing shots	Grants Isaac homing tears.	3
+Squeezy	5.100.196	Squeezy	Tears up	Increases tears by 0.4, spawns 2 Soul Hearts.	3
+Starter Deck	5.100.251	Starter Deck	Extra card room	Isaac can hold 2 cards at once and all pills are replaced by cards.	2
+Steam Sale	5.100.64	Steam Sale	50% off	Reduces all Shop prices by 50%, rounded down to 7 coins for an item, rounded up to 2-3 coins for a pickup.	2
+Stem Cells	5.100.176	Stem Cells	HP + shot speed up	Grants one full Red Heart container and +0.16 shot speed. (in Repentance) Heals 1 additional Red Heart	1
+Steven	5.100.50	Steven	DMG up	+1 damage.	3
+Stigmata	5.100.138	Stigmata	DMG + HP up	+0.3 damage, grants one full Red Heart container. (in Repentance) Heals 1 additional Red Heart.	2
+Stop Watch	5.100.232	Stop Watch	Let's slow this down a bit...	(in Rebirth)+0.3 speed. Automatically inflicts slow to all enemies in every room.(in Afterbirth and Afterbirth †)+0.3 speed. Upon taking damage, inflicts slow to all enemies for the current room.(in Repentance)+0.3 speed. Slows all enemies in every room to 80% speed.	4
+Strange Attractor	5.100.315	Strange Attractor	Magnetic tears	Pickups, trinkets, and monsters are magnetically attracted to Isaac's tears.	0
+Super Bandage	5.100.92	Super Bandage	+2 hearts	Grants one full Red Heart container and 2 Soul Hearts.	2
+Synthoil	5.100.345	Synthoil	DMG + range up	(except in Repentance) +1 damage, +5.25 range, +0.5 tear falling speed.(in Repentance) +1 damage, +2.5 range.	3
+Taurus	5.100.299	Taurus	Speed down + rage is building	-0.3 Speed. Isaac builds speed while in a room with enemies. At max speed, he gains the My Little Unicorn effect for 5 seconds.	1
+Tech.5	5.100.244	Tech	It's still being tested...	Isaac occasionally fires an unlimited range piercing laser alongside his normal tears. The laser can glitch, mimicking the effects of certain items and trinkets.	3
+Technology	5.100.68	Technology	Laser tears	Replaces tears with a piercing laser with unlimited range.	3
+Technology 2	5.100.152	Technology 2	Extra laser	Replaces the tears fired from Isaac's right eye with a rapid-firing low damage piercing laser. (except in Repentance) Damage down.	2
+The Battery	5.100.63	The Battery	Stores energy	Activated collectibles can store an extra level of charge, allowing them to be used twice in one room.	2
+The Belt	5.100.28	The Belt	Speed up	Increases speed by 0.3.	1
+The Black Bean	5.100.180	The Black Bean	Toot on touch	(except in Repentance) When taking damage, Isaac farts, poisoning enemies in range.(in Repentance) When taking damage, Isaac farts five times, poisoning and knocking back nearby enemies and leaving lingering poison clouds.	0
+The Body	5.100.334	The Body	I feel all	Adds 3 Red Heart Containers.	3
+The Common Cold	5.100.103	The Common Cold	Poison damage	Adds a chance to shoot poison tears, dealing damage over time when inflicted.	1
+The Compass	5.100.21	The Compass	The end is near	Reveals the locations and types of all special rooms on the map, except Secret Rooms and Super Secret Rooms.	2
+The Halo	5.100.101	The Halo	All stats up	(except in Repentance) Grants one full Red Heart container, +0.3 damage, +0.2 tears, +0.25 range, +0.3 speed, and +0.5 tear falling speed.(in Repentance) Grants one full Red Heart container, +0.3 damage, +0.2 tears, +1.5 range, and +0.3 speed. Heals 1 additional Red Heart.	2
+The Inner Eye	5.100.2	The Inner Eye	Triple shot	Grants triple shot but decreases tears.	2
+The Ladder	5.100.60	The Ladder	Building bridges	Allows Isaac to walk across gaps one square across by automatically placing a ladder between the two walkable sections.	1
+The Ludovico Technique	5.100.329	The Ludovico Technique	Controlled tears	Instead of firing tears, Isaac controls one floating tear that hover over obstacles. This tear deals constant damage when held in place over an enemy.	2
+The Mark	5.100.79	The Mark	DMG + speed up	(except in Repentance) Grants one Soul Heart, +1 damage, and +0.2 speed.(in Repentance) Grants one Black Heart, +1 damage, and +0.2 speed.	3
+The Mind	5.100.333	The Mind	I know all	Reveals the entire map, including all special rooms and Secret Rooms.	3
+The Mulligan	5.100.151	The Mulligan	They grow inside	Tears have a 1/6 chance of spawning allied Blue Flies when they hit an enemy.	3
+The Negative	5.100.328	The Negative	Fate chosen	If Isaac has half a red heart or no red hearts after taking damage, all enemies in the room take significant damage. Allows entrance into the Dark Room. (in Repentance) +1 Damage and also allows access to Home.	2
+The Pact	5.100.80	The Pact	DMG + tears up	(except in Repentance) Grants two Soul Hearts, +0.5 damage, and +0.7 tears.(in Repentance) Grants two Black Hearts, +0.5 damage, and +0.7 tears.	3
+The Parasite	5.100.104	The Parasite	Split shot	Isaac's tears split in two when they hit something.	3
+The Peeper	5.100.155	The Peeper	Plop!	Spawns a familiar that slowly floats around the room in a zig-zag pattern, damaging enemies it passes through. (in Repentance) Increases the damage of tears from Isaac's left eye by 35%.	2
+The Polaroid	5.100.327	The Polaroid	Fate chosen	If Isaac has half a red heart or no red hearts after taking damage, he gains a shield that nullifies all types of damage for 5 seconds. Allows entrance into Chest. (in Repentance) Also allows access to Home.	2
+The Relic	5.100.98	The Relic	Soul generator	Spawns a cross familiar that drops a Soul Heart after clearing enough rooms.	3
+The Sad Onion	5.100.1	The Sad Onion	Tears up	Increases tears by 0.7.	3
+The Small Rock	5.100.90	The Small Rock	DMG up + speed down	+1 damage, +0.2 tears, -0.2 speed.	3
+The Soul	5.100.335	The Soul	I am all	Grants two Soul Hearts. Isaac gains a pulsing aura that repels enemies and projectiles.	3
+The Virus	5.100.13	The Virus	Poison touch + speed up	Isaac poisons enemies on contact. (except in Repentance) -0.1 speed. (in Repentance) +0.2 speed. (in Afterbirth and Afterbirth †) Poisoned enemies have a chance to drop a black heart when killed.	2
+The Wafer	5.100.108	The Wafer	Damage resistance	Most sources of damage that would cause more than one-half heart of damage are reduced to one-half heart instead.	4
+There's Options	5.100.249	There's Options	More options	Two items appear after defeating a Boss. Only one can be taken; the other will disappear.	3
+Thunder Thighs	5.100.314	Thunder Thighs	HP up + speed down + you feel stompy	Destroys rocks upon contact with Isaac. Adds one Red Heart container and lowers Speed.	1
+Tiny Planet	5.100.233	Tiny Planet	Orbiting tears + range up	Massively increases Range and grants spectral tears. Tears orbit around Isaac at a fixed distance until they hit the ground.	0
+Tooth Picks	5.100.183	Tooth Picks	Tears + shot speed up	+0.7 tears, +0.16 shot speed.	3
+Torn Photo	5.100.341	Torn Photo	Tears + shot speed up	+0.7 tears, +0.16 shot speed.	3
+Tough Love	5.100.150	Tough Love	Tooth shot	Adds a chance to shoot a tooth instead of a tear, which deals x3.2 Isaac's damage.	3
+Transcendence	5.100.20	Transcendence	We all float down here...	Grants flight.	3
+Treasure Map	5.100.54	Treasure Map	Full visible map	Reveals the map of each floor. It does not identify special rooms and does not reveal the locations of Secret Rooms / Super Secret Rooms.	2
+Trinity Shield	5.100.243	Trinity Shield	You feel guarded	Isaac gains a shield that protects him from enemy shots. It aims in the direction Isaac fires from.	2
+Virgo	5.100.303	Virgo	You feel refreshed and protected	Adds a chance to give a shield that nullifies all incoming damage for 10 seconds upon taking damage. Also converts bad pills into good pills.	2
+Whore of Babylon	5.100.122	Whore of Babylon	Curse up	Grants +1.5 Damage and +0.3 Speed whenever Isaac has a Half Red Heart or less.	2
+Wire Coat Hanger	5.100.32	Wire Coat Hanger	Tears up	Increases tears by 0.7.	3
+Wooden Spoon	5.100.27	Wooden Spoon	Speed up	Increases speed by 0.3.	1
+X-Ray Vision	5.100.76	X-Ray Vision	I've seen everything	Reveals and opens all Secret Room and Super Secret Room entrances.	2
+(except in Rebirth) 8 Inch Nails	5.100.359	8 Inch Nails	Stick it to 'em!	+1.5 damage. Replaces Isaac's tears with nails, which have increased knockback.	3
+(except in Rebirth) Athame	5.100.408	Athame	Call to the void	(except in Repentance) When Isaac takes damage, a damaging black ring briefly appears around him. This ring can cause enemies to drop Black Hearts.(in Repentance) After Isaac kills an enemy, adds a luck-based chance to spawn a damaging black ring around them.	3
+(except in Rebirth) Betrayal	5.100.391	Betrayal	Turn your enemy	(except in Repentance) Charms all enemies in the room when Isaac takes damage.(in Repentance) Enemies are able to damage each other. If an enemy is damaged by another enemy, they will attack that enemy instead of Isaac.	1
+(except in Rebirth) Binky	5.100.438	Binky	Tears up	Grants one Soul Heart, +0.75 tears and decreases Isaac's size.	3
+(except in Rebirth) Black Powder	5.100.420	Black Powder	Spin the black circle!	Isaac leaves a trail of black powder on the floor. Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to any enemies inside it.	1
+(except in Rebirth) Bomber Boy	5.100.353	Bomber Boy	Cross blast + 5 bombs	+5 Bombs. Isaac's bombs will now explode in a large cross-shaped pattern (roughly 5 bombs explosions wide). This also affects player-spawned Troll Bombs.	2
+(except in Rebirth) Bumbo	5.100.385	Bumbo	Bumbo want coin!	Spawns a beggar familiar which picks up any nearby coins, leveling up after collecting several coins. At level 2, Bumbo gains a body. At level 3, it begins to fire tears. At level 4, Bumbo follows enemies and gains contact damage.	1
+(except in Rebirth) Bursting Sack	5.100.377	Bursting Sack	Spider love	Spider enemies no longer target or deal contact damage to Isaac.	1
+(except in Rebirth) Cambion Conception	5.100.412	Cambion Conception	Feed them hate	After taking damage a certain amount of times, a permanent demonic familiar spawns.	2
+(except in Rebirth) Car Battery	5.100.356	Car Battery	Active power up	Causes Isaac's activated item to activate twice on each use.	3
+(except in Rebirth) Censer	5.100.387	Censer	Peace be with you	Spawns a familiar which creates a circular aura that slows down enemies and enemy shots inside.	3
+(except in Rebirth) Chaos	5.100.402	Chaos	!!!	Drops 1-6 random pickups on the floor. Causes items to be chosen from random item pools.	3
+(except in Rebirth) Charged Baby	5.100.372	Charged Baby	Bbbzzzzzt!	Spawns a familiar that occasionally drops a Lil' Battery, gives an active item charge, or petrifies all enemies in the room.	3
+(except in Rebirth) Circle of Protection	5.100.423	Circle of Protection	Protect me from myself	Surrounds Isaac with a large white halo that occasionally deals Isaac's tear damage to enemies inside it, and can convert enemy shots into friendly homing tears.	2
+(except in Rebirth) Continuum	5.100.369	Continuum	Transcendent tears	Grants spectral tears and increases range. Tears travel through walls and appear at the opposite side of the room.	2
+(except in Rebirth) Crack Jacks	5.100.354	Crack Jacks	HP up. Don't swallow the prize!	Grants one full Red Heart container and drops a random trinket.	2
+(except in Rebirth) Crown Of Light	5.100.415	Crown Of Light	The untainted gain power	+2 Soul Hearts. While Isaac has no empty red hearts, grants 2x damage, increased range, and -0.3 shot speed. Regardless of health, the crown deactivates for the current room when Isaac takes damage.	4
+(except in Rebirth) Curse of the Tower	5.100.371	Curse of the Tower	Embrace chaos	Upon taking damage, spawns six Troll Bombs around the room, similar to the effect of XVI - The Tower.	0
+(except in Rebirth) Dead Eye	5.100.373	Dead Eye	Accuracy brings power!	Isaac's damage increases each time an enemy is hit. Damage is reset upon missing a shot.	3
+(except in Rebirth) Deep Pockets	5.100.416	Deep Pockets	More money!	(except in Repentance) Allows Isaac to carry two cards or pills (or a combination of both) at the same time.(in Repentance) Increases the coin cap to 999. If a room would otherwise yield no reward, 1-3 coins will spawn.	2
+(except in Rebirth) Eden's Blessing	5.100.381	Eden's Blessing	Tears up + your future shines brighter	+0.7 tears up. Grants a random item at the start of the next run.	3
+(except in Rebirth) Empty Vessel	5.100.409	Empty Vessel	I reward an empty vessel	Grants two Black Hearts. While Isaac has no red hearts, grants flight and periodically grants an invincibility shield for a few seconds.	2
+(except in Rebirth) Epiphora	5.100.368	Epiphora	Intensifying tears	Shooting in one direction increases Isaac's rate of fire until the cap is reached. As soon as Isaac changes direction or stops shooting, rate of fire is reset to its normal amount.	2
+(except in Rebirth) Evil Eye	5.100.410	Evil Eye	Eye shot!	Adds a chance to fire a slow-moving eye that fires tears in the same direction as Isaac. The eye is destroyed when it hits an enemy or obstacle.	2
+(except in Rebirth) Explosivo	5.100.401	Explosivo	Sticky bomb shot!	Isaac's tears have a chance to stick to enemies and explode.	3
+(except in Rebirth) Farting Baby	5.100.404	Farting Baby	He farts!	Spawns a familiar that follows Isaac and blocks enemy shots. If a shot hits Farting Baby, it has a chance to fart, which charms, poisons, or knocks back nearby enemies.	1
+(except in Rebirth) Fate's Reward	5.100.361	Fate's Reward	Your fate beside you	A blue head familiar that will follow Isaac and fire tears copying his tear effects and damage.	2
+(except in Rebirth) Friend Zone	5.100.364	Friend Zone	Friendly fly	Spawns a white attack fly that orbits somewhere between Distant Admiration and Forever alone, dealing 45 damage per second.	1
+(except in Rebirth) Fruit Cake	5.100.418	Fruit Cake	Rainbow effects!	Isaac's tears gain a random effect that changes every shot.	2
+(except in Rebirth) GB Bug	5.100.405	GB Bug	Double tap glitch	(except in Repentance) Spawns a familiar that bounces diagonally around the room, applying a random status effect to enemies it hits and has a chance to re-roll pickups it passes over.(in Repentance) Spawns a familiar that follows Isaac. Double tapping the fire button launches it forward, causing it to reroll the first monster or pickup it hits.	1
+(except in Rebirth) Glitter Bombs	5.100.432	Glitter Bombs	Prize bombs!	+5 Bombs. Bombs have a chance to drop random pickups or charm enemies when they explode.	2
+(except in Rebirth) God's Flesh	5.100.398	God's Flesh	Shrink shot!	Tears have a chance to shrink enemies, making them run away from Isaac. Shrunk enemies can be crushed and killed by walking over them.	1
+(except in Rebirth) Head of the Keeper	5.100.429	Head of the Keeper	Penny tears!	Isaac's tears become coins and now have a chance to drop Pennies on the floor upon successfully hitting an enemy.	2
+(except in Rebirth) Holy Light	5.100.374	Holy Light	Holy death shot	Adds a chance to fire holy tears, which will create a damaging light beam in the area if they hit an enemy.	3
+(except in Rebirth) Host Hat	5.100.375	Host Hat	Blast resistance	A host familiar that sits on Isaac's head and has a random chance to block enemy shots and retaliate with 3 tears. Grants immunity to explosions.	3
+(except in Rebirth) Immaculate Conception	5.100.413	Immaculate Conception	Feed them love	Upon picking up a certain amount of health, spawn a permanent angelic familiar.	1
+(except in Rebirth) Incubus	5.100.360	Incubus	Dark friend	Spawns a demonic familiar that shoots tears identical to Isaac's in terms of damage, tears, and tear effects.	4
+(except in Rebirth) Key Bum	5.100.388	Key Bum	He wants your keys!	Spawns a familiar that follows Isaac and collects Keys for himself, giving random Chests in return.	0
+(except in Rebirth) Kidney Stone	5.100.440	Kidney Stone	Matt's kidney stone	Randomly while firing tears, Isaac will stop firing and turn red, where he will charge and release a lot of 'tears' in one go. The burst of tears also includes a kidney stone, which deals a lot of damage.	2
+(except in Rebirth) Lil Chest	5.100.362	Lil Chest	What's in the box?	Spawns a chest familiar that spawns a random pickup (25% chance) or trinket (10% chance) upon clearing a room.	2
+(except in Rebirth) Lil Gurdy	5.100.384	Lil Gurdy	A gurd of your own!	A Gurdy Jr. familiar that charges up while Isaac is firing, bouncing around the room when released and dealing contact damage based on its speed.	2
+(except in Rebirth) Lil Loki	5.100.435	Lil Loki	4-way buddy!	Spawns a Loki familiar that follows Isaac and fires 4 tears in a cross pattern.	1
+(except in Rebirth) Lost Fly	5.100.365	Lost Fly	Lost protector	(except in Repentance) Spawns fly familiar that moves in a straight line and circles around the first wall or obstacle it hits, dealing 105 damage per second on contact.(in Repentance) Spawns fly familiar that moves in a straight line and circles around the first wall or obstacle it hits, dealing 56 damage per second and forcing nearby enemies to attack it.	2
+(except in Rebirth) Lusty Blood	5.100.411	Lusty Blood	Their blood brings rage!	Isaac's damage increases for the current room each time he kills an enemy.	3
+(except in Rebirth) Marked	5.100.394	Marked	Directed tears	Isaac will automatically fire tears directed at a red target on the ground. The target can be moved with tear controls. +0.7 tears, increases range.	1
+(except in Rebirth) Maw Of The Void	5.100.399	Maw Of The Void	Consume thy enemy!	Charged by firing for 2.5 seconds and when released, creates a black ring around Isaac that rapidly deals damage. (except in Repentance) +1 damage, the ring can cause enemies to drop Black Hearts.	3
+(except in Rebirth) Milk!	5.100.436	Milk!	Don't cry over it...	Spawns a glass familiar that spills on the floor upon taking damage. (except in Repentance) After the milk spills, Isaac's tear delay is decreased by 2 for the current room. (in Repentance) After the milk spills, Isaac's fire rate is increased by 1 for the current room.	1
+(except in Rebirth) Mom's Pearls	5.100.355	Mom's Pearls	Range + luck up	(except in Repentance) +1.25 range, +0.5 tear falling speed, +1 luck.(in Repentance) +2.5 range, +1 luck. Grants one Soul Heart.	2
+(except in Rebirth) More Options	5.100.414	More Options	There's options	Two item pedestals are presented in every Treasure Room. Only one can be taken; the other will disappear.	3
+(except in Rebirth) Mr. Dolly	5.100.370	Mr	Range + tears up	(except in Repentance) +0.7 tears, +5.25 range, +0.5 tear falling speed, Spawns a combination of 3 Red Hearts, Soul Hearts or Black Hearts on the floor when picked up.(in Repentance) +0.7 tears, +2.5 range, spawns 3 random types of Hearts on the floor when picked up.	3
+(except in Rebirth) Multidimensional Baby	5.100.431	Multidimensional Baby	ydduB Buddy	Spawns a familiar that will follow Isaac's movements on a 2.5-second delay. Tears that pass through the baby will be doubled and increase in speed.	2
+(except in Rebirth) My Shadow	5.100.433	My Shadow	Me! And my shaaaadow!	(except in Repentance) Inflicts fear on all enemies in the room upon taking damage and spawns black friendly Chargers that attack enemies.(in Repentance)Spawns a shadow familiar that closely follows behind Isaac. It spawns a black friendly Charger whenever an enemy touches it.	2
+(except in Rebirth) Night Light	5.100.425	Night Light	Scared of the dark?	A cone of light shines in the direction Isaac is moving that slows enemies and enemy shots.	1
+(except in Rebirth) Number Two	5.100.378	Number Two	Uh oh...	Continuously firing tears for three seconds causes Isaac to drop a Butt Bomb, which damages and confuses all enemies in the room when it explodes.	2
+(except in Rebirth) Obsessed Fan	5.100.426	Obsessed Fan	Follows my every move...	Spawns a familiar that follows Isaac's movements on a delay and deals 30 contact damage per second to enemies.	0
+(except in Rebirth) Papa Fly	5.100.430	Papa Fly	Turret follower	Spawns a familiar that follows Isaac's movements on a 3 second delay, firing tears at nearby enemies.	1
+(except in Rebirth) Pay to Play	5.100.380	Pay to Play	Money talks	(except in Repentance) +5 Coins. Most doors require one Penny to open instead of a Key.(in Repentance) +5 Coins. All locked doors, Locked Chests, and Key Blocks must be opened with one Penny instead of Keys.	2
+(except in Rebirth) PJs	5.100.428	PJs	You feel cozy	Grants 4 Soul Hearts and fully restores Isaac's health.	2
+(except in Rebirth) Pupula Duplex	5.100.379	Pupula Duplex	Wide shot	Gives Isaac spectral tears and gives his tears a wide arc shape, increasing their size.	2
+(except in Rebirth) Purity	5.100.407	Purity	Aura stat boost	Boosts one of Isaac's stats depending on the color of the aura around him. The aura disappears upon taking damage and reappears with a random color upon entering a new room. Red boosts damage, blue boosts tears, yellow boosts speed, and orange boosts range.	3
+(except in Rebirth) Restock	5.100.376	Restock	Never ending stores!	Causes Shops to instantly restock their items when they are bought. (in Repentance) Outside of Greed Mode, the restocked item's cost is increased after each purchase.	2
+(except in Rebirth) Rune Bag	5.100.389	Rune Bag	Rune generator	Spawns a familiar that drops a random rune after clearing enough rooms.	3
+(except in Rebirth) Sack Head	5.100.424	Sack Head	More sacks!	Spawns a Grab Bag on pickup. Coins, Bombs, Keys, cards, runes and batteries have a chance to become Grab Bags.	3
+(except in Rebirth) Scatter Bombs	5.100.366	Scatter Bombs	We put bombs in your bombs!	+5 Bombs. Isaac's bombs explode into 2-4 tiny bombs.	1
+(except in Rebirth) Seraphim	5.100.390	Seraphim	Sworn friend	Spawns an angel familiar who follows Isaac and fires homing tears which deal 10 damage and have 75% shot speed.	3
+(except in Rebirth) Serpent's Kiss	5.100.393	Serpent's Kiss	The kiss of death	Tears have a chance to apply a poison effect to enemies. Isaac poisons enemies on contact. Poisoned enemies have a chance to drop a Black Heart when killed.	2
+(except in Rebirth) Spear Of Destiny	5.100.400	Spear Of Destiny	Your destiny	In addition to tears, Isaac holds a spear in front of him which deals contact damage equal to 2x his tear damage, and occasionally inflicts fear.	2
+(except in Rebirth) Spider Mod	5.100.403	Spider Mod	Mod buddy!	Displays Isaac's tear damage and enemy health bars. Spawns a familiar that wanders around and inflicts random status effects on enemies it touches. Can spawn a Lil' Battery/Blue spider upon clearing a room.	1
+(except in Rebirth) Sticky Bombs	5.100.367	Sticky Bombs	Egg sack bombs!	+5 Bombs. Bombs stick to enemies and spawn 2-4 Blue Spiders if they kill an enemy. (in Repentance) They also leave a long-lasting puddle of slowing white creep.	2
+(except in Rebirth) Succubus	5.100.417	Succubus	Damage booster	Spawns a flying familiar that bounces around the room with a black aura, dealing rapid damage to any enemies inside it. While standing in the aura, Isaac gains a 1.5x tear damage multiplier.	3
+(except in Rebirth) Sworn Protector	5.100.363	Sworn Protector	Protective friend	Spawns an orbital familiar which does 105 damage per second and attracts and blocks enemy shots. Upon blocking 10 shots in a room, it drops an Eternal Heart.	3
+(except in Rebirth) Tech X	5.100.395	Tech X	Laser ring tears	Tears are replaced with laser rings that pierce through enemies and deal damage to enemies within them. Can be charged to increase the effectiveness of the ring.	4
+(except in Rebirth) The Wiz	5.100.358	The Wiz	Double wiz shot!	Grants spectral tears. Tears simultaneously fire out of both eyes diagonally, similar to the effect of the R U a Wizard? pill.	0
+(except in Rebirth) Toxic Shock	5.100.350	Toxic Shock	Mass poison	Upon entering a room, poisons all enemies, dealing double Isaac's tear damage. Killing enemies leaves a small, short-lasting pool of green creep on the ground.	3
+(except in Rebirth) Tractor Beam	5.100.397	Tractor Beam	Controlled tears	Isaac emits a beam from his face that his tears are bound to. (except in Repentance) Increases Tears, Range, and Shot Speed. (in Repentance) Increases Fire Rate, Range, and Shot Speed.	3
+(except in Rebirth) Zodiac	5.100.392	Zodiac	The heavens will change you	Gives Isaac a random zodiac item effect that changes every floor.	1
+(in Afterbirth † and Repentance) 7 Seals	5.100.526	7 Seals	Lil harbingers!	Spawns a random Harbinger familiar that changes every 10 seconds. Harbingers have different behaviors and spawn themed Locusts.	2
+(in Afterbirth † and Repentance) Acid Baby	5.100.491	Acid Baby	Pills pills pills!	Spawns a familiar that drops a random pill every 3 rooms. Upon using a pill, all enemies in the room are poisoned.	2
+(in Afterbirth † and Repentance) Adrenaline	5.100.493	Adrenaline	Panic = power	Increases damage based on how many empty Red Heart containers Isaac has.	2
+(in Afterbirth † and Repentance) Analog Stick	5.100.465	Analog Stick	360 tears!	+0.35 tears up. Allows Isaac to fire tears diagonally.	2
+(in Afterbirth † and Repentance) Angelic Prism	5.100.528	Angelic Prism	Eclipsed by the moon	Spawns an orbital familiar with a large orbital radius. Tears that pass through the prism split into four multi-colored tears.	3
+(in Afterbirth † and Repentance) Angry Fly	5.100.511	Angry Fly	He's violent	Spawns a fly familiar that orbits around a random enemy and deals 30 damage per second to enemies it comes in contact with.	1
+(in Afterbirth † and Repentance) Apple!	5.100.443	Apple!	Trick or treat?	+0.3 tears. Adds a chance to fire a razor blade that deals 4x Isaac's damage.	3
+(in Afterbirth † and Repentance) Backstabber	5.100.506	Backstabber	Watch your back!	Isaac's tears deal double damage and inflict bleeding on enemies if they're facing away from Isaac.	3
+(in Afterbirth † and Repentance) Belly Button	5.100.458	Belly Button	What's in there?	Drops a random trinket. Grants a second trinket slot.	2
+(in Afterbirth † and Repentance) Big Chubby	5.100.473	Big Chubby	Chub chub	Spawns a familiar that follows Isaac and charges across the room when Isaac fires, blocking shots and dealing 40.5 damage per second on contact.	1
+(in Afterbirth † and Repentance) Blanket	5.100.535	Blanket	You feel Safe	Grants one Soul Heart. Upon entering a boss room, grants a shield that blocks one hit, then disappears.	2
+(in Afterbirth † and Repentance) Bloodshot Eye	5.100.509	Bloodshot Eye	Bloody friend	Spawns an orbital familiar that deals 30 damage per second and fires a randomly angled tear every 2 seconds.	1
+(in Afterbirth † and Repentance) Bozo	5.100.513	Bozo	Party time!	+0.1 flat damage, grants a Soul Heart. Enemies can randomly become briefly charmed or feared. Taking damage has a chance to spawn a Rainbow Poop.	2
+(in Afterbirth † and Repentance) Brittle Bones	5.100.549	Brittle Bones	Everything hurts	Replaces all Red Heart Containers with 6 empty Bone Hearts. (except in Repentance) Upon losing a Bone Heart, Isaac fires bones in 8 directions and permanently gains a tears up. (in Repentance) Upon losing a Bone Heart, Isaac fires bones in 8 directions and permanently gains a fire rate up.	3
+(in Afterbirth † and Repentance) Broken Modem	5.100.514	Broken Modem	Lag!	Enemies, enemy shots, tears, and pickups will briefly freeze in place at random intervals.	3
+(in Afterbirth † and Repentance) Broken Shovel	5.100.551	Broken Shovel	It feels cursed	One of two parts necessary to create Mom's Shovel. No effect if somehow obtained on its own.	4
+(in Afterbirth † and Repentance) Buddy in a Box	5.100.518	Buddy in a Box	What could it be?!	Spawns a familiar with a random tear effect. The familiar is randomized at the start of each floor.	2
+(in Afterbirth † and Repentance) Camo Undies	5.100.497	Camo Undies	Camo kid	Isaac becomes camouflaged at the beginning of each room. Until he shoots, all non-boss enemies will be confused. (in Repentance) Isaac gains +0.5 Speed while camouflaged, and gains Tears and Damage upon breaking it.	3
+(in Afterbirth † and Repentance) Compound Fracture	5.100.453	Compound Fracture	Bone tears!	Increases Range. Tears turn into bones, which shatter into 1-3 bone shards upon hitting an enemy or obstacle.	3
+(in Afterbirth † and Repentance) Cone Head	5.100.457	Cone Head	Hard headed!	Grants a Soul Heart. Gives Isaac a chance to ignore any damage taken.	2
+(in Afterbirth † and Repentance) Contagion	5.100.466	Contagion	Outbreak!	The first enemy killed in a room explodes and poisons nearby enemies. Poisoned enemies will also explode upon death.	2
+(in Afterbirth † and Repentance) Dad's Lost Coin	5.100.455	Dad's Lost Coin	I remember this...	(except in Repentance)+1.5 range, +1 tear falling speed. Drops a Lucky Penny.(in Repentance)+2.5 range. Drops a Lucky Penny.	1
+(in Afterbirth † and Repentance) Dad's Ring	5.100.546	Dad's Ring	Father's blessing	Creates a ring of light around Isaac that petrifies enemies in contact.	3
+(in Afterbirth † and Repentance) Dark Prince's Crown	5.100.442	Dark Prince's Crown	Loss is power	(except in Repentance) When at exactly one Red Heart, increases tears, range, tear falling speed, and shot speed.(in Repentance) When at exactly one Red Heart, increases fire rate, range, and shot speed.	1
+(in Afterbirth † and Repentance) Dead Tooth	5.100.446	Dead Tooth	Toxic breath	While firing, Isaac gains a green aura that poisons nearby enemies.	1
+(in Afterbirth † and Repentance) Death's List	5.100.530	Death's List	Just hope you're not next...	Grants a pickup or stat upgrade if all enemies in a room are killed in the order they are marked.	2
+(in Afterbirth † and Repentance) Depression	5.100.469	Depression	:(	Spawns a familiar that leaves a trail of creep that damages enemies at 6 damage per second. Has a chance to spawn damaging beams of light onto enemies that touch the cloud.	1
+(in Afterbirth † and Repentance) Divorce Papers	5.100.547	Divorce Papers	Tears up + you feel empty	Grants one Bone Heart, +0.7 tears, spawns a Mysterious Paper.	3
+(in Afterbirth † and Repentance) Dog Tooth	5.100.445	Dog Tooth	Bark at the moon!	+0.3 damage, +0.1 speed. Plays a howl or bark sound when entering a room with undiscovered Secret Rooms or Crawl Spaces.	2
+(in Afterbirth † and Repentance) Duality	5.100.498	Duality	You feel very balanced	Whenever a Devil Room or Angel Room would spawn after defeating a boss, both rooms spawn. Only one can be entered.	1
+(in Afterbirth † and Repentance) Eucharist	5.100.499	Eucharist	Peace be with you	An Angel Room door will always spawn after every boss fight, excluding the first floor and floors after Womb II/Utero II/Scarred Womb II.	3
+(in Afterbirth † and Repentance) Euthanasia	5.100.496	Euthanasia	Needle shot	Adds a chance to fire needles that instantly kill basic enemies and deal triple damage to bosses. If a needle kills an enemy, it bursts into more tears/needles.	3
+(in Afterbirth † and Repentance) Eye of Belial	5.100.462	Eye of Belial	Possessed tears!	Grants piercing tears. After piercing one enemy, tears start homing and deal double damage.	3
+(in Afterbirth † and Repentance) Eye of Greed	5.100.450	Eye of Greed	Gold tears!	Every 20 tears, Isaac loses 1 Penny and shoots an additional gold tear that petrifies enemies and turns them into gold. Any enemy killed while in this state will drop coins.	2
+(in Afterbirth † and Repentance) Fast Bombs	5.100.517	Fast Bombs	Rapid bomb drops	+7 Bombs. Removes the delay between bomb placements, allowing them to be placed rapidly. (in Repentance) Bombs will no longer knock each other away.	1
+(in Afterbirth † and Repentance) Finger!	5.100.467	Finger!	Watch where you point that!	Spawns a finger familiar that faces in the same direction as Isaac, rapidly damaging enemies it points at for 10% of Isaac's damage.	1
+(in Afterbirth † and Repentance) Flat Stone	5.100.540	Flat Stone	Skipping tears	Tears bounce off the floor, creating splashes. Splashes deal 25% of Isaac's tear damage to all enemies in a small area.	2
+(in Afterbirth † and Repentance) Ghost Pepper	5.100.495	Ghost Pepper	Flame tears	(except in Repentance)Gives a chance to shoot fires alongside tears that block enemy shots and deal damage to enemies that touch them.(in Repentance)Gives a chance to shoot blue fires alongside tears that become smaller as they travel.	3
+(in Afterbirth † and Repentance) Glaucoma	5.100.460	Glaucoma	Blind tears!	Adds a chance to shoot tears that confuse enemies for an extremely long time.	1
+(in Afterbirth † and Repentance) Glyph of Balance	5.100.464	Glyph of Balance	A gift from above	Grants 2 Soul Hearts and modifies drops from Champion monsters based on certain conditions. (in Repentance) Also modifies room clear drops.	2
+(in Afterbirth † and Repentance) Greed's Gullet	5.100.501	Greed's Gullet	Money = health!	Grants a Red Heart container for every 25 Coins Isaac has.	1
+(in Afterbirth † and Repentance) Haemolacria	5.100.531	Haemolacria	I'm seeing red...	Tears are now fired in an arc. Upon hitting the floor, an obstacle, or an enemy, they burst into many smaller tears in all directions. Increases tear delay.	4
+(in Afterbirth † and Repentance) Hallowed Ground	5.100.543	Hallowed Ground	Portable sanctuary	Spawns a white poop familiar, which turns into a White Poop when Isaac is hurt. White poop has an aura that increases tear fire rate and can block enemy shots. (in Repentance) The aura also increases damage by 20% and gives homing.	1
+(in Afterbirth † and Repentance) Hushy	5.100.470	Hushy	Lil hush!	Spawns a Hush familiar that bounces diagonally around the room and deals contact damage. While firing tears, it stops moving.	0
+(in Afterbirth † and Repentance) Jacob's Ladder	5.100.494	Jacob's Ladder	Electric tears	Tears fire sparks of electricity in random directions upon hitting an obstacle or enemy.	3
+(in Afterbirth † and Repentance) Jaw Bone	5.100.548	Jaw Bone	Fetch!	Spawns a familiar that flies through the room while firing, dealing a flat 7 contact damage to enemies and retrieving pickups.	1
+(in Afterbirth † and Repentance) Jumper Cables	5.100.520	Jumper Cables	Bloody recharge	Grants an active item charge every 15 enemies killed.	3
+(in Afterbirth † and Repentance) King Baby	5.100.472	King Baby	Hail to the king baby	Spawns a familiar that follows Isaac and makes other familiars follow it. While firing tears, other familiars stop moving.	1
+(in Afterbirth † and Repentance) Lachryphagy	5.100.532	Lachryphagy	Feed them!	Isaac's tears decelerate as they travel. Upon stopping or hitting an obstacle, they burst into 8 tears in all directions. Tears can be fired into other tears to feed them, increasing their damage.	2
+(in Afterbirth † and Repentance) Large Zit	5.100.502	Large Zit	Creep shots	Adds a chance to fire a creep shot that deals double damage and leaves a trail of slowing white creep.	1
+(in Afterbirth † and Repentance) Lead Pencil	5.100.444	Lead Pencil	He's a bleeder!	After every 15 tears fired, Isaac will fire a high-damage cluster of tears.	3
+(in Afterbirth † and Repentance) Leprosy	5.100.525	Leprosy	You're tearing me apart!	Upon taking damage, grants a body part as an orbital, which blocks enemy shots and deals 7 damage per tick to enemies it comes in contact with. The orbitals will be destroyed if they take enough damage from enemies or enemy shots.	1
+(in Afterbirth † and Repentance) Lil Delirium	5.100.519	Lil Delirium	Delirious friend	Grants a familiar that transforms into another random familiar every 10 seconds.	2
+(in Afterbirth † and Repentance) Lil Monstro	5.100.471	Lil Monstro	Ain't he cute?	Spawns a familiar that fires clusters of tears. Must be charged before shooting.	2
+(in Afterbirth † and Repentance) Lil Spewer	5.100.537	Lil Spewer	Puking buddy	Drops a random pill, and spawns a familiar that charges up and fires creep. Using pills changes the creep type.	1
+(in Afterbirth † and Repentance) Linger Bean	5.100.447	Linger Bean	Crying makes me toot	Constantly shooting causes Isaac to release gas clouds that can be pushed by his tears and damage nearby enemies.	0
+(in Afterbirth † and Repentance) Little Horn	5.100.503	Little Horn	Big brother is watching	(except in Repentance) Adds a chance to fire a piercing tear that instantly kills any enemy that it touches.(in Repentance) Adds a chance to fire a tear that summons Big Horn's hand to crush the first enemy it hits, instantly killing monsters or greatly damaging bosses.	3
+(in Afterbirth † and Repentance) Marbles	5.100.538	Marbles	Choking hazard	Spawns 3 random trinkets. Taking damage has a 5% chance to swallow Isaac's currently held trinket, gaining its effect permanently.	2
+(in Afterbirth † and Repentance) Marrow	5.100.541	Marrow	HP up?	Grants one Bone Heart and spawns three Red Hearts.	1
+(in Afterbirth † and Repentance) Metal Plate	5.100.449	Metal Plate	It itches...	Grants one Soul Heart. Enemy shots have a chance to be reflected at the shooter as confusing tears.	1
+(in Afterbirth † and Repentance) Midnight Snack	5.100.456	Midnight Snack	HP up	Grants one full Red Heart container. (in Repentance) Heals 1 additional Red Heart. Has the appearance of a moldy piece of bread.	1
+(in Afterbirth † and Repentance) Mom's Razor	5.100.508	Mom's Razor	It's sharp!	Spawns an orbiting razor that deals contact damage and inflicts bleeding on enemies, causing them to slowly take damage over time.	2
+(in Afterbirth † and Repentance) Mystery Egg	5.100.539	Mystery Egg	Sacrificial insemination	Spawns an egg familiar, which cracks into a random friendly monster when Isaac is hurt. The egg regenerates upon entering a different room.	1
+(in Afterbirth † and Repentance) Parasitoid	5.100.461	Parasitoid	Egg tears!	Adds a chance to fire an egg sack which creates slowing creep and spawns a Blue Fly or Blue Spider upon hitting an enemy.	3
+(in Afterbirth † and Repentance) Pointy Rib	5.100.544	Pointy Rib	Stabbing time	Spawns a bone familiar that hovers back and forth in front of Isaac, dealing damage equal to Isaac's damage.	2
+(in Afterbirth † and Repentance) Poke Go	5.100.505	Poke Go	Gotta catch em...	Upon entering a room with enemies in it, has a chance to spawn a random friendly enemy that persists across rooms.	2
+(in Afterbirth † and Repentance) Polydactyly	5.100.454	Polydactyly	Hold me!	Allows Isaac to carry two cards, pills, or any combination of both. Spawns one random card, rune, or pill.	2
+(in Afterbirth † and Repentance) Pop!	5.100.529	Pop!	Eyeball tears!	Replaces Isaac's tears with eyeballs that can bounce off of each other. The eyeballs are not limited by range, and will instead dissipate when they stop moving or when hitting an enemy or obstacle.	1
+(in Afterbirth † and Repentance) Sack of Sacks	5.100.500	Sack of Sacks	Gives sacks	Spawns a familiar that drops a Grab Bag every 5-6 rooms cleared.	3
+(in Afterbirth † and Repentance) Schoolbag	5.100.534	Schoolbag	Extra active item room	Allows Isaac to hold two active items.	3
+(in Afterbirth † and Repentance) Shade	5.100.468	Shade	It follows	Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies. After dealing enough damage, it is absorbed by Isaac and spawns friendly Chargers.	0
+(in Afterbirth † and Repentance) Shard of Glass	5.100.448	Shard of Glass	Blood and guts!	(except in Repentance) Upon taking damage, Isaac has a chance to drop a full red heart, gain 5 range, and leave a trail of damaging red creep for the current room.(in Repentance) Taking damage causes Isaac to bleed, spraying a volley of blood in the direction he fires. Bleeding will eventually damage him, but it can be stopped by picking up a Red Heart.	1
+(in Afterbirth † and Repentance) Sinus Infection	5.100.459	Sinus Infection	Booger tears!	Adds a chance to fire a booger that sticks to enemies and deals damage over time.	3
+(in Afterbirth † and Repentance) Slipped Rib	5.100.542	Slipped Rib	Projectile shield	Spawns a bone familiar that circles around Isaac and reflects enemy shots.	2
+(in Afterbirth † and Repentance) Sulfuric Acid	5.100.463	Sulfuric Acid	Acid tears!	+0.3 damage. Adds a chance to fire acidic tears which can destroy obstacles and open doors.	2
+(in Afterbirth † and Repentance) Tarot Cloth	5.100.451	Tarot Cloth	I see the future	Drops a random card or rune. (except in Repentance) Doubles the effects of most cards and runes. (in Repentance) Doubles the effects of tarot cards.	2
+(in Afterbirth † and Repentance) Technology Zero	5.100.524	Technology Zero	Static tears!	Connects Isaac's tears with electricity that can damage enemies.	3
+(in Afterbirth † and Repentance) Trisagion	5.100.533	Trisagion	Smite thy enemy	Tears are replaced with piercing white blasts of light that deal less damage but can damage the same enemy multiple times.	3
+(in Afterbirth † and Repentance) Varicose Veins	5.100.452	Varicose Veins	I'm leaking...	Taking damage releases a ring of 10 high damage tears.	1
+(in Afterbirth † and Repentance) YO LISTEN!	5.100.492	YO LISTEN!	Yo listen!	+1 luck. Spawns a fairy familiar that points out Secret Rooms, Crawl Space entrances, and tinted rocks.	2
+(in Repentance) 120 Volt	5.100.559	120 Volt	Zap!	Repeatedly zaps enemies that are close to Isaac.	2
+(in Repentance) 2Spooky	5.100.554	2Spooky	4me	Enemies near Isaac are afflicted with fear.	1
+(in Repentance) 4.5 Volt	5.100.647	4	Beat the juice out of them!	Active items don't charge when clearing rooms. Instead, they're charged by dealing damage to enemies.	2
+(in Repentance) A Bar of Soap	5.100.564	A Bar of Soap	Tears + shot speed up	Gives Isaac +0.5 Tears and +0.2 Shot Speed.	3
+(in Repentance) A Pound of Flesh	5.100.672	A Pound of Flesh	Blood money	Devil deals now cost Coins, Shop items now cost health, and consumables in shops are free but surrounded by spikes.	1
+(in Repentance) Act of Contrition	5.100.601	Act of Contrition	Tears up, you feel forgiven	Increases tears and grants an Eternal Heart. Allows Angel Rooms to appear even if a Devil Deal has been taken before. Reduces the Devil/Angel room chance penalty for taking Red heart damage.	3
+(in Repentance) Akeldama	5.100.641	Akeldama	Spill your guts	While in an uncleared room, Isaac forms a trail of bloody tears that drags behind him, bursting and dealing damage upon contact with enemies.	2
+(in Repentance) Almond Milk	5.100.561	Almond Milk	DMG down + tears up + you feel nutty	Quadruples fire rate, with x0.3 damage multiplier. Each tear is a given random effect that alters its movement.	1
+(in Repentance) Astral Projection	5.100.677	Astral Projection	The true out-of-body experience!	Causes Isaac to turn into a ghost if he gets hit while in an uncleared room, giving him flight and spectral tears and blocking the next hit he takes.	2
+(in Repentance) Azazel's Rage	5.100.699	Azazel's Rage	Ancient power	Isaac builds rage every time a room is cleared. After four rooms, fires a large Brimstone laser when entering the next room.	2
+(in Repentance) Battery Pack	5.100.603	Battery Pack	Instant energy!	Recharges Isaac's currently held active item and drops 2-4 batteries.	0
+(in Repentance) Belly Jelly	5.100.690	Belly Jelly	Bounce away!	Causes enemies to bounce off of Isaac, dealing damage to them if they hit an enemy or obstacle. Also gives Isaac the chance to deflect enemy shots.	3
+(in Repentance) Binge Eater	5.100.664	Binge Eater	All you can eat	+1 Red Heart Container and fully heals Isaac. Item pedestals also offer a random food item. Picking up a food item temporarily grants +3.6 damage and permanently boosts 2 stats.	4
+(in Repentance) Bird Cage	5.100.610	Bird Cage	Fat buddy	The first time Isaac takes damage in a room, a familiar leaps on an enemy, dealing damage and releasing a rock wave. For the rest of the room, it chases enemies similar to Dead Bird.	1
+(in Repentance) Bird's Eye	5.100.616	Bird's Eye	It burns	Gives a chance to shoot fires alongside tears that block enemy shots and deal damage to enemies that touch them.	3
+(in Repentance) Birthright	5.100.619	Birthright	???	Grants a character-specific effect that enhances their special abilities.	3
+(in Repentance) Blood Bombs	5.100.614	Blood Bombs	Bloody blast + HP up	Grants a Red Heart container and restores 5 hearts. Bombs leave behind damaging red creep. Isaac can place Bombs at the cost of half a heart if he doesn't have any.	2
+(in Repentance) Blood Oath	5.100.569	Blood Oath	Bleed me dry	Stabs Isaac at the beginning of each floor, draining his Red Hearts. Increases damage and speed for the floor based on the amount drained.	1
+(in Repentance) Blood Puppy	5.100.565	Blood Puppy	What a cute little thing!	Spawns a familiar that chases enemies. After killing enough enemies, it becomes more powerful but will also try to hurt Isaac. Attacking it returns it to normal.	1
+(in Repentance) Bloody Gust	5.100.695	Bloody Gust	May your rage bring haste	The first 6 times Isaac takes damage on a given floor, he gains Speed and Fire Rate for the rest of the floor, up to a maximum of +1.02 and +3.00, respectively.	2
+(in Repentance) Boiled Baby	5.100.607	Boiled Baby	Messy friend	Gives Isaac a familiar that fires chaotic bursts of tears in all directions.	1
+(in Repentance) Bone Spurs	5.100.683	Bone Spurs	Break your enemies	Enemies spawn floating bones on death, which block shots and damage/repel enemies that touch them.	2
+(in Repentance) Booster Pack	5.100.624	Booster Pack	Collect them all!	Drops 5 random cards.	1
+(in Repentance) Bot Fly	5.100.629	Bot Fly	Defense drone	Spawns an orbiting fly familiar that fires shielded tears at incoming enemy projectiles.	3
+(in Repentance) Brimstone Bombs	5.100.646	Brimstone Bombs	Demon blast +5 bombs	+5 Bombs. Bombs fire four Brimstone lasers in the cardinal directions upon exploding.	2
+(in Repentance) C Section	5.100.678	C Section	Fetus shots	Replaces tears with fetuses that chase down enemies and deal contact damage. Each shot requires a brief charge up.	4
+(in Repentance) Candy Heart	5.100.671	Candy Heart	Power of love	Gives Isaac a permanent stat boost whenever he heals with Red Heart pickups.	1
+(in Repentance) Card Reading	5.100.660	Card Reading	A link to your future	Spawns two portals at the beginning of each floor that each lead to either the Boss Room, Treasure Room, or Secret Room.	3
+(in Repentance) Consolation Prize	5.100.644	Consolation Prize	+1 to lowest stat	Increases Isaac's lowest stat and drops either 3 Coins, 1 Bomb, or 1 Key depending on what Isaac has the least of.	1
+(in Repentance) Cracked Orb	5.100.675	Cracked Orb	Shards of knowledge	Unlocks doors and reveals a random room on the map when Isaac takes damage.	1
+(in Repentance) Cube Baby	5.100.652	Cube Baby	Kick it!	Spawns an ice cube familiar that slides around when walked into. It slows and deals contact damage, freezing monsters it kills.	1
+(in Repentance) Dad's Note	5.100.668	Dad's Note	...	Sends Isaac on an Ascent toward Home.	0
+(in Repentance) Dirty Mind	5.100.576	Dirty Mind	Filthy friends	Destroying poop spawns Dip Familiars that follow Isaac and damage enemies. Destroying different types of poop spawns different Dips with special effects.	1
+(in Repentance) Divine Intervention	5.100.568	Divine Intervention	Double tap shield	Double tapping a fire key creates a shield that pushes away enemies and reflects enemy projectiles and lasers.	2
+(in Repentance) Dogma	5.100.633	Dogma	Ascended	Grants flight, +2 damage, and increases speed to 1.1. Grants enough health to have 6 full hearts, if possible. Grants the Holy Mantle effect for the room it was obtained in. Automatically given to Isaac after defeating Dogma.	3
+(in Repentance) Dream Catcher	5.100.566	Dream Catcher	Sweet dreams	During the transition between floors, Isaac's nightmare shows the contents of the upcoming floor's Treasure Room, as well as the floor's boss. Grants a Half Soul Heart when entering a new floor.	2
+(in Repentance) Echo Chamber	5.100.700	Echo Chamber	I can see see the future future future	When Isaac uses a Card, Pill, or Rune, he also uses a copy of the previous three Cards/Pills/Runes he used after picking up Echo Chamber.	3
+(in Repentance) Empty Heart	5.100.676	Empty Heart	It multiplies	If Isaac has one red heart or fewer at the beginning of a floor, he gains an empty red heart container.	1
+(in Repentance) Evil Charm	5.100.632	Evil Charm	Luck up + you feel protected	+2 luck. Provides immunity to burn, confusion, fear, and poison.	2
+(in Repentance) Eye Drops	5.100.600	Eye Drops	Tears up	Increases the fire rate in Isaac's left eye, causing his eyes to fire at different rates.	3
+(in Repentance) Eye of the Occult	5.100.572	Eye of the Occult	DMG up + range up + controlled tears	+1 damage, +2 range, -0.16 shot speed. Isaac's tears can be controlled mid-flight with tear controls.	3
+(in Repentance) Eye Sore	5.100.558	Eye Sore	More eyes	Causes Isaac to occasionally fire extra tears in random directions while shooting.	1
+(in Repentance) False PHD	5.100.654	False PHD	Worse pills + evil up	Converts good pills into bad pills and identifies all pills. Bad pills now have secondary positive effects. Grants one Black Heart.	2
+(in Repentance) Freezer Baby	5.100.608	Freezer Baby	Iced iced baby	Spawns a shooting familiar that has a chance to petrify enemies, and freezes monsters upon killing them.	2
+(in Repentance) Fruity Plum	5.100.649	Fruity Plum	Bouncy friend	Gives Isaac a miniature Baby Plum familiar that propels itself diagonally around the room, firing tears behind itself as it travels.	1
+(in Repentance) Ghost Bombs	5.100.727	Ghost Bombs	Spooky blast +5 bombs	+5 Bombs. Bombs become spectral and spawn ghosts that deal contact damage to enemies and explode after 10 seconds.	2
+(in Repentance) Giant Cell	5.100.658	Giant Cell	Micro friends	Causes Isaac to spawn micro-Isaacs when he takes damage, which chase and shoot at nearby enemies.	1
+(in Repentance) Glass Eye	5.100.730	Glass Eye	DMG + luck up	+0.75 damage, +1 luck.	3
+(in Repentance) Glitched Crown	5.100.689	Glitched Crown	?????	Item pedestals cycle between 5 random items before being picked up.	4
+(in Repentance) Guppy's Eye	5.100.665	Guppy's Eye	An eye for secrets	Shows the contents of Chests, Fire Places, Grab Bags, and Shopkeepers before they're opened/destroyed.	2
+(in Repentance) Heartbreak	5.100.694	Heartbreak	Eternal sorrow	Grants 3 broken hearts and +0.25 damage for every broken heart Isaac has. Every otherwise fatal hit will add 2 more until Isaac has nothing but broken hearts.	3
+(in Repentance) Hemoptysis	5.100.726	Hemoptysis	Double tap sneeze	Double-tapping a fire button causes Isaac to sneeze blood, dealing damage to enemies in front of him. Affected enemies are cursed and take more damage from Brimstone-like attacks.	1
+(in Repentance) Hungry Soul	5.100.684	Hungry Soul	Out for blood	Enemies have a chance to spawn ghosts on death, which chase and deal contact damage to enemies and explode after a short time.	2
+(in Repentance) Hypercoagulation	5.100.724	Hypercoagulation	Thick blooded	After Isaac takes damage from an enemy or donates health, launches Red Hearts from Isaac that despawn after 1.5 seconds.	2
+(in Repentance) IBS	5.100.725	IBS	Your stomach rumbles	Causes Isaac to throw poop, create buffing creep, or drop bombs while fighting enemies.	0
+(in Repentance) Immaculate Heart	5.100.573	Immaculate Heart	Halo of tears	Adds one Red Heart Container and fully restores health. x1.2 damage multiplier. Isaac will occasionally fire extra tears that orbit around him.	3
+(in Repentance) Inner Child	5.100.688	Inner Child	Let him free	Upon death, Isaac respawns in the current room with half of a Red Heart, a massive size down, and +0.2 Speed.	2
+(in Repentance) Isaac's Tomb	5.100.701	Isaac's Tomb	Buried memories	Spawns an Old Chest at the start of each floor.	3
+(in Repentance) It Hurts	5.100.560	It Hurts	No it doesn't...	Releases a ring of tears and increases fire rate for the current room when Isaac takes damage.	1
+(in Repentance) Jupiter	5.100.594	Jupiter	You're a gas giant!	+2 red Heart containers, -0.3 speed. Isaac builds speed while standing still, and releases poison gas clouds when he moves afterwards.	2
+(in Repentance) Keeper's Kin	5.100.717	Keeper's Kin	Under a rock	Rocks and other Obstacles spawn blue spiders over time while in a room with enemies, and spawn two blue spiders when destroyed.	2
+(in Repentance) Keeper's Sack	5.100.716	Keeper's Sack	Spending power	Gives range, speed, or damage when buying things from a shop. Also spawns three coins and a Key on pickup.	3
+(in Repentance) Knife Piece 1	5.100.626	Knife Piece 1	???	Combined with Knife Piece 2, creates a knife familiar that damages enemies and can open the door to the Corpse.	0
+(in Repentance) Knife Piece 2	5.100.627	Knife Piece 2	???	Combined with Knife Piece 1, creates a knife familiar that damages enemies and can open the door to the Corpse.	0
+(in Repentance) Knockout Drops	5.100.637	Knockout Drops	They pack a punch!	Adds a chance to shoot a fist tear that has extremely high knockback and confuses enemies.	3
+(in Repentance) Lil Abaddon	5.100.679	Lil Abaddon	Abyssal friend	Spawns a familiar that charges a miniature Maw Of The Void attack while Isaac shoots.	2
+(in Repentance) Lil Dumpy	5.100.615	Lil Dumpy	Puffy buddy	Spawns a Dumpy familiar that pushes away nearby enemies and projectiles just before Isaac is about to be hit, then falls asleep. He can be awoken by walking to him.	3
+(in Repentance) Lil Portal	5.100.681	Lil Portal	It hungers	A familiar that flies forward, consuming pickups in its path. Each one will increase its size and damage and spawn a Blue Fly. Every four pickups, it opens a portal that leads to an unexplored room.	1
+(in Repentance) Lodestone	5.100.617	Lodestone	Magnetizing tears	Gives Isaac the chance to fire tears that magnetize enemies they hit, causing them to attract nearby pickups and enemies, as well as tears/shots from all sources.	3
+(in Repentance) Lost Soul	5.100.612	Lost Soul	Protect him	Creates a ghostly familiar that closely follows behind Isaac. It dies in one hit, but respawns at the start of the next floor. Each time it survives until the next floor, it rewards Isaac with Soul Hearts, Eternal Hearts, or an Item.	2
+(in Repentance) Luna	5.100.589	Luna	The moon's blessing shines upon you	Adds an extra Secret Room and Super Secret Room to each floor. Secret Rooms contain a beam of light that increases Fire Rate for the current floor and gives a Half Soul Heart.	2
+(in Repentance) Mars	5.100.593	Mars	Double tap dash	Dash by double-tapping the movement key, becoming invulnerable and damaging enemies. There's a short cooldown before Isaac can dash again.	2
+(in Repentance) Member Card	5.100.602	Member Card	Exclusive access!	Adds a trapdoor to every Shop that leads to a second shop with a unique stock and marked-up prices.	2
+(in Repentance) Mercurius	5.100.590	Mercurius	Speed up + you feel elusive	+0.4 speed. Doors stay open after entering a room, even in rooms with enemies.	3
+(in Repentance) Mom's Ring	5.100.732	Mom's Ring	DMG up	+1 Damage. Drops a random Rune or Soul Stone upon pickup.	3
+(in Repentance) Monstrance	5.100.574	Monstrance	Purifying light	Isaac gains an aura that deals damage to enemies inside it.	2
+(in Repentance) Montezuma's Revenge	5.100.680	Montezuma's Revenge	Oh no...	While firing, Isaac charges up a short-ranged Brimstone-like diarrhea beam that shoots behind him.	2
+(in Repentance) Mucormycosis	5.100.553	Mucormycosis	Spore shot	Gives Isaac the chance to fire spore tears that stick to enemies and blow up after a few seconds, dealing damage and poisoning nearby enemies and releasing more spores.	3
+(in Repentance) Nancy Bombs	5.100.563	Nancy Bombs	Random blast +5 bombs	+5 Bombs. Each bomb gains 1-4 random bomb synergies.	2
+(in Repentance) Neptunus	5.100.597	Neptunus	Open the floodgates	Isaac's mouth fills with tears over time while not firing, up to a cap. Holding the fire button will release all stored tears in rapid succession.	3
+(in Repentance) Ocular Rift	5.100.606	Ocular Rift	Stare into the abyss	Gives Isaac the chance to fire tears that create rifts where they land, which damage nearby enemies and pull in enemies, pickups, and tears/shots from all sources.	3
+(in Repentance) Options?	5.100.670	Options?	There might be options	If a room gives a reward when cleared, there will be two different rewards to chose from. Taking one causes the other to disappear.	2
+(in Repentance) Orphan Socks	5.100.571	Orphan Socks	Speed up + your feet feel stronger	Prevents creep and floor spikes from damaging Isaac. Also gives Isaac +0.3 speed and 2 Soul Hearts.	2
+(in Repentance) Paschal Candle	5.100.567	Paschal Candle	Keep the flame burning	Gives Isaac a familiar that grants +0.4 Fire Rate for each consecutive room he's cleared without taking damage. The bonus stacks up to five times.	3
+(in Repentance) Playdough Cookie	5.100.570	Playdough Cookie	Tasty rainbow	Grants multicolored tears. Each color comes with a different status or tear effect.	2
+(in Repentance) Pluto	5.100.598	Pluto	Size down	+0.7 tears. Significantly shrinks Isaac, allowing him to squeeze between objects and makes some enemy shots pass over him.	3
+(in Repentance) Psy Fly	5.100.581	Psy Fly	Flamboyant protector	Spawns a fly orbital familiar that chases and blocks enemy shots.	4
+(in Repentance) Purgatory	5.100.634	Purgatory	Help from beyond	While in a room with enemies, spawns cracks on the ground. Walking over these cracks summons ghosts that launch themselves at enemies and explode.	2
+(in Repentance) Quints	5.100.661	Quints	They lurk inside	The first five enemies killed in a room will spawn stationary shooting familiars where they died.	2
+(in Repentance) Red Stew	5.100.621	Red Stew	Full HP + temporary DMG up	Refills all heart containers. Grants an enormous damage boost that wears off over time.	2
+(in Repentance) Redemption	5.100.673	Redemption	Deliver me from evil	If Isaac enters a Devil Room, but leaves without taking/opening anything in it (including Black Hearts, etc.), he gets +1 Damage and a Soul Heart at the start of the next floor.	2
+(in Repentance) Revelation	5.100.643	Revelation	Awaken your faith	Grants flight and two Soul Hearts. In addition to tears, Isaac can charge up and fire a powerful holy laser.	4
+(in Repentance) Rock Bottom	5.100.562	Rock Bottom	It's only up from there	Locks Isaac's attributes to their highest values reached.	3
+(in Repentance) Rocket in a Jar	5.100.583	Rocket in a Jar	Rocket propulsion +5 bombs	+5 Bombs. If Isaac is currently firing, placing a bomb will instead shoot a fast-moving, explosive rocket in the direction he's facing.	2
+(in Repentance) Rotten Tomato	5.100.618	Rotten Tomato	Delicious!	Adds a chance to fire tears that mark enemies with the Bait status effect. Enemies marked as bait are attacked by other enemies.	2
+(in Repentance) Sacred Orb	5.100.691	Sacred Orb	Destined for greatness	Prevents items of quality 0-1 from appearing, and items of quality 2 from appearing 33% of the time, greatly increasing the quality of items received from all item pools. Quest items are unaffected.	4
+(in Repentance) Salvation	5.100.696	Salvation	Divine protection	Gives Isaac a halo that summons beams of light on enemies inside it. The halo grows larger the more times Isaac has taken damage this floor.	3
+(in Repentance) Sanguine Bond	5.100.692	Sanguine Bond	He awaits your offering	Spawns a special set of spikes in the Devil Room. Taking damage from the spikes has a chance to grant a reward.	1
+(in Repentance) Saturnus	5.100.595	Saturnus	Ring of tears	Upon entering a room, a circle of tears orbits Isaac. Enemy tears have a chance to be caught in orbit, turning them friendly.	2
+(in Repentance) Sausage	5.100.669	Sausage	All stats up	Adds a Red Heart Container, fully heals Isaac, and gives +0.2 Speed, +0.5 Damage, +0.5 Tears, +2.5 Range, +0.2 Shot Speed, and +1.0 Luck. Increases the chance of encountering a Devil Room, Angel Room, and/or Planetarium each by 6.9%.	3
+(in Repentance) Sol	5.100.588	Sol	Radiant victory	Reveals the location of the Boss Room. Upon defeating a boss, activates XIX - The Sun, fully recharges Isaac's active item, grants bonus damage and luck for the rest of the floor, and removes curses.	2
+(in Repentance) Soul Locket	5.100.686	Soul Locket	Power of faith	Gives Isaac a permanent stat boost whenever he picks up a Soul Heart.	1
+(in Repentance) Spirit Shackles	5.100.674	Spirit Shackles	Unfinished business	On death, Isaac's ghost is chained to his dead body and he can continue to fight with 1/2 of a heart, returning to life after 10 seconds. After it activates, it must be recharged by picking up a Soul Heart.	2
+(in Repentance) Spirit Sword	5.100.579	Spirit Sword	Divine blade	Instead of tears, Isaac swings a sword. Charging does a spin attack and fires a projectile, and a projectile is sometimes fired with normal swings if Isaac has no empty Red Heart Containers.	3
+(in Repentance) Stapler	5.100.708	Stapler	DMG up	+1 Damage. Prevents Isaac from firing tears from his left eye, like Cain.	3
+(in Repentance) Star of Bethlehem	5.100.651	Star of Bethlehem	Follow the light	Spawns a star familiar that slowly travels towards the Boss Room, giving an aura that increases damage and tears and grants homing tears.	3
+(in Repentance) Strawman	5.100.667	Strawman	A helping hand	Spawns a controllable Keeper to fight enemies alongside Isaac, functioning similarly to Jacob and Esau. If Keeper dies, he spawns 5 blue spiders and Strawman is removed from Isaac's inventory.	2
+(in Repentance) Stye	5.100.731	Stye	DMG + range up	Tears fired from Isaac's right eye have +28% Damage, +6.5 Range, and -0.3 Shot Speed.	2
+(in Repentance) Supper	5.100.707	Supper	HP up	Grants one full Red Heart container. Heals 1 additional Red Heart. Has the appearance of an open can of cat food.	1
+(in Repentance) Terra	5.100.592	Terra	Born to rock	+1 Damage. Replaces tears with rocks that deal variable damage, have increased knockback, and can destroy obstacles.	3
+(in Repentance) The Intruder	5.100.575	The Intruder	Invasive friend	A familiar burrows in Isaac's head, firing 4 slowing tears. Upon taking damage, there's a chance it will burst out of Isaac's head, spawning blue spiders and chasing enemies for the current room.	3
+(in Repentance) The Stairway	5.100.586	The Stairway	May you get what you came for	Generates a ladder at the start of every floor that leads to a unique Angel Room shop.	3
+(in Repentance) The Swarm	5.100.693	The Swarm	Infest	Spawns eight orbital flies, which turn into Blue Flies after they block a shot. Each time a room is cleared, spawns another orbital fly.	2
+(in Repentance) Tinytoma	5.100.645	Tinytoma	Itching for revenge	Gives Isaac a Teratoma orbital that blocks shots, deals contact damage, and splits into smaller versions of itself upon taking damage. The smaller versions break into blue spiders.	1
+(in Repentance) TMTRAINER	5.100.721	TMTRAINER	ZZaZZ ZZdZZiZZmZZhZZ ZZvZZ ZZoZZ ZZ ZZsZZlZZhZZsZZoZZaZZiZZ	Causes all future items to be "glitched", granting them completely random effects.	0
+(in Repentance) Tooth and Nail	5.100.663	Tooth and Nail	You feel prickly	Isaac periodically turns into a spiked statue, briefly becoming invulnerable and dealing contact damage.	2
+(in Repentance) Tropicamide	5.100.659	Tropicamide	Tear size + range up	+2.5 Range, Increases tear size.	1
+(in Repentance) Twisted Pair	5.100.698	Twisted Pair	Double trouble!	Spawns two familiars that float on either side of Isaac and fire tears that use his tears, range, shot speed, and tear effects, and scale with damage.	4
+(in Repentance) Uranus	5.100.596	Uranus	Ice tears	Isaac shoots ice tears, which slow enemies and freeze monsters they kill. Frozen enemies slide away and explode into ice shards when touched.	3
+(in Repentance) Vanishing Twin	5.100.697	Vanishing Twin	He wants revenge	Spawns a familiar that becomes a clone of the floor's boss when entering the Boss Room. Defeating it drops an extra item.	2
+(in Repentance) Vasculitis	5.100.657	Vasculitis	Clogged enemies	Enemies explode into tears upon death, which inherit the effects of Isaac's tears.	1
+(in Repentance) Vengeful Spirit	5.100.702	Vengeful Spirit	Hot blooded	After taking damage, spawns an orbital wisp that lasts for the entire floor, up to a maximum of six. They fire tears but do not block shots.	1
+(in Repentance) Venus	5.100.591	Venus	HP up + you feel pretty	Adds one red Heart container. Heals 1 additional Red Heart. Enemies near Isaac become charmed.	2
+(in Repentance) Voodoo Head	5.100.599	Voodoo Head	Extra curse rooms	Spawns an additional Curse Room on each floor. Curse Rooms have improved layouts.	2
+(in Repentance) Worm Friend	5.100.682	Worm Friend	Clingy buddy	Gives Isaac a Nerve Ending familiar that burrows out of the ground to grab and deal damage to enemies over time.	3
+(in Afterbirth †) Tonsil	5.100.474	Tonsil	Gross...	Grants a familiar that follows Isaac and blocks enemy shots.	

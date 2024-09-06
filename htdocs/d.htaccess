@@ -1,7 +1,0 @@
-php_value display_errors Off
-php_value mbstring.http_input auto
-php_value date.timezone America/New_York
-ErrorDocument 404 http://cookies2x2.rf.gd/error/404
-RewriteEngine On
-RewriteCond %{QUERY_STRING} ^(.*)i=[^&]+(.*)$ [NC]
-RewriteRule ^(.*)$ /$1?%1%2 [R=301,L]

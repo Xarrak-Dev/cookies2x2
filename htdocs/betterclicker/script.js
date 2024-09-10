@@ -1,5 +1,5 @@
 function func1() {
-    Math.random = window.setInterval(func2, 0);
+    Math.random() = window.setInterval(func2, 0);
 }
 
 function func2() {

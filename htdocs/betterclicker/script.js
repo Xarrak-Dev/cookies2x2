@@ -20,8 +20,8 @@ document.addEventListener("mouseup", setPrimaryButtonState);
 function coord(event) {
     console.log(event.clientX);
     if(primaryMouseButtonDown) {
-        counter++;
-        document.getElementById("woah").innerText = counter;
+        counter += 0.1;
+        document.getElementById("woah").innerText = Math.round(counter);
     }
 }
 

@@ -5,21 +5,21 @@ var mouse = false;
 
 var counter = 0;
 
-document.body.onmousedown = mouseDown();
-document.body.onmouseup = mouseUp();
+var primaryMouseButtonDown = false;
 
-function mouseDown() {
-    mouse = true;
-    console.log("down")
+function setPrimaryButtonState(e) {
+  var flags = e.buttons !== undefined ? e.buttons : e.which;
+  primaryMouseButtonDown = (flags & 1) === 1;
+  console.log("the stuff was triggered   " + primaryMouseButtonDown)
 }
 
-function mouseUp() {
-    mouse = false;
-}
+document.addEventListener("mousedown", setPrimaryButtonState);
+document.addEventListener("mousemove", setPrimaryButtonState);
+document.addEventListener("mouseup", setPrimaryButtonState);
 
 function coord(event) {
     console.log(event.clientX);
-    if(mouse) {
+    if(primaryMouseButtonDown) {
         counter++;
         document.getElementById("woah").innerText = counter;
     }

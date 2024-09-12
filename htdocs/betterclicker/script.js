@@ -7,7 +7,7 @@ function setPrimaryButtonState(e) {
   primaryMouseButtonDown = (flags & 1) === 1;
   console.log("the stuff was triggered   " + primaryMouseButtonDown)
   if(primaryMouseButtonDown) {
-    counter += 0.1;
+    counter += 0.3;
     document.getElementById("woah").innerText = Math.round(counter);
   }
 }

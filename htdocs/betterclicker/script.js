@@ -9,6 +9,7 @@ function setPrimaryButtonState(e) {
   if(primaryMouseButtonDown) {
     counter += 0.3;
     document.getElementById("woah").innerText = Math.round(counter);
+    audio = new Audio('pop.wav');
     audio.play();
   }
 }

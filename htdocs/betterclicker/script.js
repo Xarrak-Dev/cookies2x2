@@ -10,6 +10,7 @@ document.body.onmouseup = mouseUp();
 
 function mouseDown() {
     mouse = true;
+    console.log("down")
 }
 
 function mouseUp() {
@@ -17,9 +18,7 @@ function mouseUp() {
 }
 
 function coord(event) {
-    var mouseX = exent.clientX;
-    var mouseY = event.clientY;
-
+    console.log(event.clientX);
     if(mouse) {
         counter++;
         document.getElementById("woah").innerText = counter;

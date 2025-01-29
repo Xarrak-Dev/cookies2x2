@@ -1,0 +1,99 @@
+body {
+	font-size: 18px;
+	text-align: center;
+	background: #181825;
+	color: #cdd6f4;
+	padding: 0;
+	font-family: monospace;
+	margin-top: 30px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+
+}
+
+button {
+	border-radius: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #cba6f7;
+    font-weight: 500;
+    border-width: 0px;
+    cursor: pointer;
+    box-shadow: 5px 5px 7px #11111b;
+    color: #1e1e2e;
+}
+
+button:disabled {
+    background-color: #3a3983;
+}
+
+#clickbutton {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+    transform: translate(-50%, -50%);
+	border-radius: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	font-size: 13px;
+	font-family: sans-serif;
+}
+
+.misc {
+	position: absolute;
+	left: 1%;
+}
+
+#ascensions {
+	position: absolute;
+	display: grid;
+	grid-template-columns: 1fr;
+	left: 30px;
+}
+
+#upgrades {
+	position: absolute;
+	display: grid;
+	grid-template-columns: 1fr;
+	right: 30px;
+}
+
+.upgradebutton {
+	margin: 5px;
+	padding-top: 2px;
+	padding-bottom: 4px;
+	border-radius: 30px;
+}
+
+#top {
+	line-height: 10px;
+}
+
+#bottom {
+	position: absolute;
+	bottom: 3%;
+	left: 50%;
+	margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.sidebar{
+	left: 0.5%;
+	top: 0.5%;
+	height:100%;
+	width:30%;
+	border-radius: 10px;
+	background-color:#242438;
+	position:absolute!important;
+	z-index:1;
+	overflow:auto;
+}

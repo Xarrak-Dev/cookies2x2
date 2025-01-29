@@ -1,0 +1,53 @@
+<!doctype HTML>
+<html>
+	<head>
+		<title>click</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<button class="misc" onclick="w3_open()">Options</button>
+	<body>
+		<div class="sidebar" style="display:none" id="mySidebar">
+			<h2>Options & Stats</h2>
+			<button onclick="w3_close()">Close</button>
+			<br>
+			<br>
+			<button class="upgradebutton" onclick="clearData()">Reset all data</button>
+			<br>
+			<p id="clicksTracker">Total Clicks: </p>
+			<p id="cpptracker"> 1 Clicks per Press</p>
+			<p id="cpstracker">0 Clicks per Second</p>
+			<p id="ascTracker">Ascensions: </p>
+			<p id="multTracker">Multiplier Reduction: </p>
+		</div>
+
+		<div id="top">
+			<h1 style="line-height: normal;">generic clicker</h1>
+			<h3 id="counter">0 Clicks</h3>
+		</div>
+		
+		<button id="clickbutton" onclick="clickd()" tabindex="-1">Click</button>
+
+		<div id="upgrades">
+			<h2>Upgrades</h2>
+			<button onclick="exclick()" class="upgradebutton" id="exclickbutton">Extra Click - 10c</button>
+			<button onclick="cpsclick()" class="upgradebutton" id="cpsclickbutton">+1 Clicks per Second - 50c</button>
+			<button onclick="multreductclick()" class="upgradebutton" id="multreductbutton">Increase Clicks for Multiplier by 1 - 500c</button>
+		</div>
+
+		<div id="ascensions">
+			<h2>Ascensions</h2>
+            <button onclick="ascend()" id="ascendButton">Ascend</button>
+            <p id="ascensionMult">Ascension Multiplier: </p>
+            <p id="ascendFuture">Next Ascension Multiplier: </p>
+		</div>
+
+		<div id="bottom">
+			<progress id="multiplierprog" value="0" max="20"></progress> <p id="multipliernum">x1</p>
+		</div>
+	</body>
+	<footer>
+		<script src="script.js"></script>
+	</footer>
+</html>
